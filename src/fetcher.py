@@ -9,7 +9,7 @@ import logging
 from dataclasses import dataclass
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 from typing import Any
 
 import feedparser
@@ -160,6 +160,12 @@ def fetch_scrape(source_name: str, source_url: str, selectors: dict) -> list[Art
 
     soup = BeautifulSoup(r.text, "lxml")
     link_els = soup.select(article_sel)
+
+    # When falling back to default "a" selector, discard nav/anchor/external links
+    using_default_sel = not selectors.get("articles")
+    if using_default_sel:
+        link_els = [el for el in link_els if _is_article_href(el.get("href", ""))]
+
     if not link_els:
         log.warning("%s: selector %r matched 0 elements", source_name, article_sel)
         return []
@@ -195,7 +201,19 @@ def fetch_scrape(source_name: str, source_url: str, selectors: dict) -> list[Art
 
 # ── Auto-resolve and dispatch ─────────────────────────────────────────────────
 
+def _is_article_href(href: str) -> bool:
+    """Filter out nav/anchor/external links when no selectors are configured."""
+    if href.startswith(("#", "mailto:", "tel:", "javascript:")):
+        return False
+    path = urlparse(href).path.strip("/")
+    return len(path.split("/")) >= 2
+
+
 def fetch_source(source: dict) -> list[Article]:
+    if source.get("disabled"):
+        log.info("%s: disabled, skipping", source.get("name"))
+        return []
+
     name = source["name"]
     url = source["url"]
     src_type = source.get("type", "auto")

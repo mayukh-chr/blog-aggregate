@@ -69,8 +69,11 @@ def run(sources: list[dict], dry_run: bool = False) -> None:
         return
 
     notifier = DiscordNotifier()
-    notifier.send(digest)
-    store.mark_seen([a.url for a in all_articles])
+    try:
+        notifier.send(digest)
+        store.mark_seen([a.url for a in all_articles])
+    except Exception as exc:
+        log.error("Notification failed — seen URLs NOT updated: %s", exc)
 
 
 def main() -> None:

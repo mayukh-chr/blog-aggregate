@@ -4,10 +4,12 @@
 #        rss   — use feedparser directly on rss_url (or auto-detect from url)
 #        scrape — use HTML scraping with the selectors below
 #
+# disabled: true — skip this source entirely
+# rss_url — use this feed URL directly, skipping the 10-probe detection loop
+#
 # For scrape sources, selectors.articles should match <a> tags.
 # selectors.date is looked up as a sibling/ancestor of each article link.
 # date_format uses strptime notation, or "iso" for ISO 8601.
-# requires_js: true adds a Playwright fallback (disabled by default).
 
 sources:
 
@@ -19,7 +21,8 @@ sources:
 
   - name: "Karan Sharma"
     url: "https://mrkaran.dev/"
-    type: auto
+    type: rss
+    rss_url: "https://mrkaran.dev/posts/atom.xml"
 
   - name: "Kailash Nadh"
     url: "https://nadh.in/"
@@ -31,7 +34,7 @@ sources:
 
   - name: "Mrinal Pramanick"
     url: "https://mrinals-vault.xyz/"
-    type: auto
+    disabled: true  # JS-rendered — static scrape returns 0 elements
 
   - name: "Andrej Karpathy"
     url: "https://karpathy.bearblog.dev/blog/"
@@ -43,7 +46,7 @@ sources:
 
   - name: "Aiden Bai"
     url: "https://www.aidenybai.com/"
-    type: auto
+    disabled: true  # JS-rendered Next.js — no RSS, no static article HTML
 
   - name: "Mitchell Hashimoto"
     url: "https://mitchellh.com/"
@@ -57,11 +60,11 @@ sources:
 
   - name: "Uber Engineering"
     url: "https://www.uber.com/en-US/blog/engineering/"
-    type: auto
+    disabled: true  # 406 Not Acceptable — rejects non-browser requests
 
   - name: "Bloomberg Engineering"
     url: "https://www.bloomberg.com/company/stories/category/tech-at-bloomberg/"
-    type: auto
+    disabled: true  # 403 Forbidden — hard bot block
 
   - name: "Databricks"
     url: "https://www.databricks.com/blog/category/engineering"
@@ -69,7 +72,10 @@ sources:
 
   - name: "Stripe Engineering"
     url: "https://stripe.com/blog/engineering"
-    type: auto
+    type: scrape
+    selectors:
+      articles: "article.BlogIndexPost h1 a.BlogIndexPost__titleLink"
+      date: "time.BlogIndexPost__date"
 
   - name: "Confluent"
     url: "https://www.confluent.io/blog/area/technology/"
@@ -85,12 +91,11 @@ sources:
 
   - name: "ByteDance / Seed"
     url: "https://seed.bytedance.com/en/blog"
-    type: auto
-    requires_js: false  # flip to true if page is JS-rendered
+    disabled: true  # JS-rendered Modern.js — static scrape returns nav junk
 
   - name: "Waymo"
     url: "https://waymo.com/blog/search/?t=Technology"
-    type: auto
+    disabled: true  # JS-rendered search results — static scrape returns nav junk
 
   - name: "Nvidia Developer"
     url: "https://developer.nvidia.com/blog/"
