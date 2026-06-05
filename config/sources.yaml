@@ -1,0 +1,101 @@
+# Blog sources for aggregation.
+#
+# type: auto   — try RSS detection first, fall back to scrape
+#        rss   — use feedparser directly on rss_url (or auto-detect from url)
+#        scrape — use HTML scraping with the selectors below
+#
+# For scrape sources, selectors.articles should match <a> tags.
+# selectors.date is looked up as a sibling/ancestor of each article link.
+# date_format uses strptime notation, or "iso" for ISO 8601.
+# requires_js: true adds a Playwright fallback (disabled by default).
+
+sources:
+
+  # ── Personal blogs ──────────────────────────────────────────────────────────
+
+  - name: "David Imel"
+    url: "https://www.davidimel.com/writing/"
+    type: auto
+
+  - name: "Karan Sharma"
+    url: "https://mrkaran.dev/"
+    type: auto
+
+  - name: "Kailash Nadh"
+    url: "https://nadh.in/"
+    type: auto
+
+  - name: "Yashaswi Mishra"
+    url: "https://www.pixperk.tech/"
+    type: auto
+
+  - name: "Mrinal Pramanick"
+    url: "https://mrinals-vault.xyz/"
+    type: auto
+
+  - name: "Andrej Karpathy"
+    url: "https://karpathy.bearblog.dev/blog/"
+    type: auto
+
+  - name: "Arpit Bhayani"
+    url: "https://arpitbhayani.me/blogs"
+    type: auto
+
+  - name: "Aiden Bai"
+    url: "https://www.aidenybai.com/"
+    type: auto
+
+  - name: "Mitchell Hashimoto"
+    url: "https://mitchellh.com/"
+    type: auto
+
+  # ── Company engineering blogs ────────────────────────────────────────────────
+
+  - name: "Frappe"
+    url: "https://frappe.io/blog"
+    type: auto
+
+  - name: "Uber Engineering"
+    url: "https://www.uber.com/en-US/blog/engineering/"
+    type: auto
+
+  - name: "Bloomberg Engineering"
+    url: "https://www.bloomberg.com/company/stories/category/tech-at-bloomberg/"
+    type: auto
+
+  - name: "Databricks"
+    url: "https://www.databricks.com/blog/category/engineering"
+    type: auto
+
+  - name: "Stripe Engineering"
+    url: "https://stripe.com/blog/engineering"
+    type: auto
+
+  - name: "Confluent"
+    url: "https://www.confluent.io/blog/area/technology/"
+    type: auto
+
+  - name: "Cloudflare"
+    url: "https://blog.cloudflare.com/tag/engineering/"
+    type: auto
+
+  - name: "Palantir"
+    url: "https://blog.palantir.com/subpage/f23bccc2b690"
+    type: auto
+
+  - name: "ByteDance / Seed"
+    url: "https://seed.bytedance.com/en/blog"
+    type: auto
+    requires_js: false  # flip to true if page is JS-rendered
+
+  - name: "Waymo"
+    url: "https://waymo.com/blog/search/?t=Technology"
+    type: auto
+
+  - name: "Nvidia Developer"
+    url: "https://developer.nvidia.com/blog/"
+    type: auto
+
+  - name: "HuggingFace"
+    url: "https://huggingface.co/blog"
+    type: auto

@@ -1,0 +1,37 @@
+name: Daily Blog Digest
+
+on:
+  schedule:
+    # 7:30 AM UTC = 1:00 PM IST
+    - cron: "30 7 * * *"
+  workflow_dispatch:  # allows manual trigger from GitHub UI
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed to commit seen_urls.json back to repo
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest
+        run: python main.py
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+      - name: Persist seen URLs
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add data/seen_urls.json
+          git diff --staged --quiet && echo "No state changes." || \
+            git commit -m "chore: update seen articles [skip ci]" && git push
