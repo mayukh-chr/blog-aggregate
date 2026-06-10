@@ -10,5 +10,15 @@
   "https://blog.cloudflare.com/realtime-threat-intel-waf-rules/": "2026-06-09T10:44:36.137959+00:00",
   "https://blog.palantir.com/managing-elasticsearch-reindex-at-scale-performance-reliability-and-observability-cf948d0efd47?source=rss----3c87dc14372f---4": "2026-06-09T10:44:36.137959+00:00",
   "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell/": "2026-06-09T10:44:36.137959+00:00",
-  "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd": "2026-06-09T10:44:36.137959+00:00"
+  "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd": "2026-06-09T10:44:36.137959+00:00",
+  "https://www.databricks.com/blog/modern-bsaaml-compliance-databricks": "2026-06-10T11:07:40.434668+00:00",
+  "https://www.databricks.com/blog/claude-fable-5-now-available-databricks-fully-governed-through-unity-ai-gateway": "2026-06-10T11:07:40.434668+00:00",
+  "https://www.databricks.com/blog/announcing-winners-2026-databricks-customer-awards": "2026-06-10T11:07:40.434668+00:00",
+  "https://www.databricks.com/blog/announcing-2026-databricks-customer-awards-industry-winners": "2026-06-10T11:07:40.434668+00:00",
+  "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability/": "2026-06-10T11:07:40.434668+00:00",
+  "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt/": "2026-06-10T11:07:40.434668+00:00",
+  "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/": "2026-06-10T11:07:40.434668+00:00",
+  "https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech/": "2026-06-10T11:07:40.434668+00:00",
+  "https://huggingface.co/blog/ServiceNow-AI/code-switching": "2026-06-10T11:07:40.434668+00:00",
+  "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code": "2026-06-10T11:07:40.434668+00:00"
 }
