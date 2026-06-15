@@ -28,6 +28,7 @@ class Article:
     title: str
     url: str
     source: str
+    source_url: str
     published: datetime | None  # UTC, or None if date unavailable
 
 
@@ -63,7 +64,7 @@ def _parse_rss_date(entry: Any) -> datetime | None:
 
 # ── RSS fetcher ───────────────────────────────────────────────────────────────
 
-def fetch_rss(source_name: str, feed_url: str) -> list[Article]:
+def fetch_rss(source_name: str, feed_url: str, source_url: str = "") -> list[Article]:
     parsed = feedparser.parse(
         feed_url,
         request_headers={"User-Agent": "blogaggregate/1.0"},
@@ -81,7 +82,7 @@ def fetch_rss(source_name: str, feed_url: str) -> list[Article]:
         title = entry.get("title", url)
         if not url:
             continue
-        articles.append(Article(title=title.strip(), url=url, source=source_name, published=pub))
+        articles.append(Article(title=title.strip(), url=url, source=source_name, source_url=source_url, published=pub))
 
     log.info("%s (rss): %d new article(s)", source_name, len(articles))
     return articles
@@ -141,7 +142,7 @@ def _find_date_near(el: Any, date_selector: str) -> datetime | None:
     return None
 
 
-def fetch_scrape(source_name: str, source_url: str, selectors: dict) -> list[Article]:
+def fetch_scrape(source_name: str, source_url: str, selectors: dict, listing_url: str = "") -> list[Article]:
     article_sel = selectors.get("articles", "a")
     date_sel = selectors.get("date", "")
     custom_fmt = selectors.get("date_format")
@@ -193,7 +194,7 @@ def fetch_scrape(source_name: str, source_url: str, selectors: dict) -> list[Art
 
         if not _within_window(pub):
             continue
-        articles.append(Article(title=title, url=url, source=source_name, published=pub))
+        articles.append(Article(title=title, url=url, source=source_name, source_url=listing_url or source_url, published=pub))
 
     log.info("%s (scrape): %d new article(s)", source_name, len(articles))
     return articles
@@ -221,17 +222,17 @@ def fetch_source(source: dict) -> list[Article]:
 
     if src_type == "rss":
         feed_url = source.get("rss_url", url)
-        return fetch_rss(name, feed_url)
+        return fetch_rss(name, feed_url, source_url=url)
 
     if src_type == "scrape":
-        return fetch_scrape(name, url, selectors)
+        return fetch_scrape(name, url, selectors, listing_url=url)
 
     # auto: try RSS detection first
     log.info("%s: detecting feed type...", name)
     feed_url = rss_detector.detect(url)
     if feed_url:
         log.info("%s: found feed at %s", name, feed_url)
-        return fetch_rss(name, feed_url)
+        return fetch_rss(name, feed_url, source_url=url)
 
     log.info("%s: no RSS found, falling back to scrape", name)
-    return fetch_scrape(name, url, selectors)
+    return fetch_scrape(name, url, selectors, listing_url=url)

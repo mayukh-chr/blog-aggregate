@@ -41,7 +41,9 @@ def _build_embed(source: str, articles: list[Article]) -> dict:
     capped = articles[:_MAX_ARTICLES_PER_SOURCE]
     lines = [f"[{a.title}]({a.url})  ·  {_fmt_date(a)}" for a in capped]
     if len(articles) > _MAX_ARTICLES_PER_SOURCE:
-        lines.append(f"*+{len(articles) - _MAX_ARTICLES_PER_SOURCE} more*")
+        overflow = len(articles) - _MAX_ARTICLES_PER_SOURCE
+        source_url = articles[0].source_url
+        lines.append(f"[+{overflow} more]({source_url})")
     description = "\n".join(lines)
     if len(description) > 4000:
         description = description[:3997] + "..."
