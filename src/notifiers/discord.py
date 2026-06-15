@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import logging
 import os
+from datetime import datetime, timezone
 import httpx
 
 from src.fetcher import Article
@@ -24,7 +25,22 @@ log = logging.getLogger(__name__)
 _MAX_EMBEDS_PER_MSG = 10
 _MAX_CHARS_PER_PAYLOAD = 5000
 _MAX_ARTICLES_PER_SOURCE = 5
-_DISCORD_BLUE = 0x5865F2
+
+# Rotating palette — visually distinct, works on dark and light Discord themes
+_COLORS = [
+    0xE06C75,  # red
+    0x61AFEF,  # blue
+    0x98C379,  # green
+    0xE5C07B,  # yellow
+    0xC678DD,  # purple
+    0x56B6C2,  # cyan
+    0xD19A66,  # orange
+    0xABB2BF,  # grey
+]
+
+
+def _color_for(source: str) -> int:
+    return _COLORS[hash(source) % len(_COLORS)]
 
 
 def _fmt_date(article: Article) -> str:
@@ -39,7 +55,7 @@ def _embed_chars(embed: dict) -> int:
 
 def _build_embed(source: str, articles: list[Article]) -> dict:
     capped = articles[:_MAX_ARTICLES_PER_SOURCE]
-    lines = [f"[{a.title}]({a.url})  ·  {_fmt_date(a)}" for a in capped]
+    lines = [f"· [{a.title}]({a.url})  `{_fmt_date(a)}`" for a in capped]
     if len(articles) > _MAX_ARTICLES_PER_SOURCE:
         overflow = len(articles) - _MAX_ARTICLES_PER_SOURCE
         source_url = articles[0].source_url
@@ -49,8 +65,9 @@ def _build_embed(source: str, articles: list[Article]) -> dict:
         description = description[:3997] + "..."
     return {
         "title": source,
+        "url": articles[0].source_url,
         "description": description,
-        "color": _DISCORD_BLUE,
+        "color": _color_for(source),
     }
 
 
@@ -99,12 +116,14 @@ class DiscordNotifier(BaseNotifier):
         embeds = [_build_embed(source, articles) for source, articles in grouped.items()]
         batches = _batch_embeds(embeds)
 
+        now = datetime.now(timezone.utc).strftime("%d %b %Y, %H:%M UTC")
         with httpx.Client() as client:
             for i, batch in enumerate(batches):
                 payload: dict = {"embeds": batch}
                 if i == 0:
                     payload["content"] = (
-                        f"**Daily digest — {len(digest.articles)} new post(s) "
-                        f"across {len(grouped)} source(s)**"
+                        f"## Daily digest\n"
+                        f"`{len(digest.articles)} new post(s)` across "
+                        f"`{len(grouped)} source(s)` · {now}"
                     )
                 _send_payload(self.webhook_url, payload, client)
