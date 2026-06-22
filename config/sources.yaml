@@ -104,3 +104,7 @@ sources:
   - name: "HuggingFace"
     url: "https://huggingface.co/blog"
     type: auto
+
+  - name: "Sakana.ai"
+    url: "https://sakana.ai/blog/"
+    type: auto
