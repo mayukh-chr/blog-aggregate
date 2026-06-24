@@ -46,5 +46,13 @@
   "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/": "2026-06-23T10:45:49.096658+00:00",
   "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/": "2026-06-23T10:45:49.096658+00:00",
   "https://huggingface.co/blog/huggingface-hub-release-ci": "2026-06-23T10:45:49.096658+00:00",
-  "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6": "2026-06-23T10:45:49.096658+00:00"
+  "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6": "2026-06-23T10:45:49.096658+00:00",
+  "https://www.databricks.com/blog/genesis-workbench-blueprint-industry-ai-life-sciences-powered-databricks-and-nvidia": "2026-06-24T10:29:45.804097+00:00",
+  "https://www.confluent.io/blog/real-time-hyper-personalization-architecture/": "2026-06-24T10:29:45.804097+00:00",
+  "https://www.confluent.io/blog/eliminate-training-serving-skew-mlops/": "2026-06-24T10:29:45.804097+00:00",
+  "https://blog.cloudflare.com/post-quantum-eo-2026/": "2026-06-24T10:29:45.804097+00:00",
+  "https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations/": "2026-06-24T10:29:45.804097+00:00",
+  "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/": "2026-06-24T10:29:45.804097+00:00",
+  "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/": "2026-06-24T10:29:45.804097+00:00",
+  "https://huggingface.co/blog/ibm-research/cuga-apps": "2026-06-24T10:29:45.804097+00:00"
 }
