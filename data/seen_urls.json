@@ -60,5 +60,14 @@
   "https://www.databricks.com/blog/what-if-answer-was-already-your-data": "2026-06-25T10:23:02.165604+00:00",
   "https://www.databricks.com/blog/databricks-positioned-highest-execution-and-furthest-vision-second-consecutive-year-gartner": "2026-06-25T10:23:02.165604+00:00",
   "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/": "2026-06-25T10:23:02.165604+00:00",
-  "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel": "2026-06-25T10:23:02.165604+00:00"
+  "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel": "2026-06-25T10:23:02.165604+00:00",
+  "https://www.davidimel.com/newsletter/testing-leicas-new-sl3-p/": "2026-06-26T10:32:32.129265+00:00",
+  "https://blog.pixperk.tech/ssi-mvcc-engine-in-go": "2026-06-26T10:32:32.129265+00:00",
+  "https://www.databricks.com/blog/test-bench-lakehouse-how-avl-modernizes-measurement-data-analytics-impulse": "2026-06-26T10:32:32.129265+00:00",
+  "https://blog.cloudflare.com/rollbacks-for-workflows/": "2026-06-26T10:32:32.129265+00:00",
+  "https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps/": "2026-06-26T10:32:32.129265+00:00",
+  "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/": "2026-06-26T10:32:32.129265+00:00",
+  "https://huggingface.co/blog/vllm-jobs": "2026-06-26T10:32:32.129265+00:00",
+  "https://huggingface.co/blog/allenai/hybrid-token-prediction": "2026-06-26T10:32:32.129265+00:00",
+  "https://sakana.ai/coffee-bench/": "2026-06-26T10:32:32.129265+00:00"
 }
