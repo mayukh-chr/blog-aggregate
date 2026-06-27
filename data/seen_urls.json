@@ -69,5 +69,10 @@
   "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/": "2026-06-26T10:32:32.129265+00:00",
   "https://huggingface.co/blog/vllm-jobs": "2026-06-26T10:32:32.129265+00:00",
   "https://huggingface.co/blog/allenai/hybrid-token-prediction": "2026-06-26T10:32:32.129265+00:00",
-  "https://sakana.ai/coffee-bench/": "2026-06-26T10:32:32.129265+00:00"
+  "https://sakana.ai/coffee-bench/": "2026-06-26T10:32:32.129265+00:00",
+  "https://www.databricks.com/blog/how-databricks-turning-video-searchable-actionable-intelligence": "2026-06-27T09:36:20.937917+00:00",
+  "https://www.databricks.com/blog/decision-framework-etl-migration-databricks": "2026-06-27T09:36:20.937917+00:00",
+  "https://www.databricks.com/blog/how-english-office-students-leverages-databricks-enhance-higher-education-standards-and-drive": "2026-06-27T09:36:20.937917+00:00",
+  "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/": "2026-06-27T09:36:20.937917+00:00",
+  "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/": "2026-06-27T09:36:20.937917+00:00"
 }
