@@ -74,5 +74,9 @@
   "https://www.databricks.com/blog/decision-framework-etl-migration-databricks": "2026-06-27T09:36:20.937917+00:00",
   "https://www.databricks.com/blog/how-english-office-students-leverages-databricks-enhance-higher-education-standards-and-drive": "2026-06-27T09:36:20.937917+00:00",
   "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/": "2026-06-27T09:36:20.937917+00:00",
-  "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/": "2026-06-27T09:36:20.937917+00:00"
+  "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/": "2026-06-27T09:36:20.937917+00:00",
+  "https://www.confluent.io/blog/building-secure-resilient-and-compliant-fraud-detection-with-confluent-cloud/": "2026-06-30T10:42:05.613282+00:00",
+  "https://www.confluent.io/blog/stream-governance-making-compliance-a-property-of-data-in-motion/": "2026-06-30T10:42:05.613282+00:00",
+  "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/": "2026-06-30T10:42:05.613282+00:00",
+  "https://huggingface.co/blog/allenai/discoformer": "2026-06-30T10:42:05.613282+00:00"
 }
