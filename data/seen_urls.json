@@ -84,5 +84,15 @@
   "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/": "2026-07-01T10:51:47.332711+00:00",
   "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/": "2026-07-01T10:51:47.332711+00:00",
   "https://huggingface.co/blog/ibm-research/scarfbench": "2026-07-01T10:51:47.332711+00:00",
-  "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable": "2026-07-01T10:51:47.332711+00:00"
+  "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable": "2026-07-01T10:51:47.332711+00:00",
+  "https://www.databricks.com/blog/how-we-keep-gpus-reliable-across-databricks-ai": "2026-07-02T10:17:31.817064+00:00",
+  "https://www.databricks.com/blog/celebrating-winners-2026-built-databricks-startup-challenge": "2026-07-02T10:17:31.817064+00:00",
+  "https://www.databricks.com/blog/granular-usage-attribution-dbt-pipelines-query-tags": "2026-07-02T10:17:31.817064+00:00",
+  "https://www.databricks.com/blog/beyond-dashboards-introducing-decision-execution-platforms": "2026-07-02T10:17:31.817064+00:00",
+  "https://www.databricks.com/blog/forecasting-speed-modern-retail": "2026-07-02T10:17:31.817064+00:00",
+  "https://blog.cloudflare.com/monetization-gateway/": "2026-07-02T10:17:31.817064+00:00",
+  "https://blog.cloudflare.com/agentic-internet-bot-report/": "2026-07-02T10:17:31.817064+00:00",
+  "https://blog.cloudflare.com/making-ai-search-smarter/": "2026-07-02T10:17:31.817064+00:00",
+  "https://blog.cloudflare.com/content-independence-day-ai-options/": "2026-07-02T10:17:31.817064+00:00",
+  "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/": "2026-07-02T10:17:31.817064+00:00"
 }
