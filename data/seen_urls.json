@@ -102,5 +102,13 @@
   "https://www.confluent.io/blog/kafka-authentication-sasl-plain-scram-config-hot-reload/": "2026-07-06T11:46:10.931162+00:00",
   "https://huggingface.co/blog/lerobot-release-v060": "2026-07-06T11:46:10.931162+00:00",
   "https://huggingface.co/blog/revamped-kernels": "2026-07-06T11:46:10.931162+00:00",
-  "https://sakana.ai/translate-release/": "2026-07-06T11:46:10.931162+00:00"
+  "https://sakana.ai/translate-release/": "2026-07-06T11:46:10.931162+00:00",
+  "https://www.databricks.com/blog/automatic-upgrades-best-practice-features-your-lakehouse-tables": "2026-07-07T10:35:56.734870+00:00",
+  "https://www.databricks.com/blog/reimagining-data-modeling-lakehouse-introducing-vibe-data-modeling": "2026-07-07T10:35:56.734870+00:00",
+  "https://www.databricks.com/blog/scaling-security-alert-triage-specialized-agents-databricks": "2026-07-07T10:35:56.734870+00:00",
+  "https://www.databricks.com/blog/contextual-policies-omnigent-using-session-state-better-govern-ai-agents": "2026-07-07T10:35:56.734870+00:00",
+  "https://www.databricks.com/blog/openai-and-databricks-dais-2026-making-enterprise-ai-real": "2026-07-07T10:35:56.734870+00:00",
+  "https://blog.cloudflare.com/workers-cache/": "2026-07-07T10:35:56.734870+00:00",
+  "https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/": "2026-07-07T10:35:56.734870+00:00",
+  "https://huggingface.co/blog/Photoroom/prx-part4-data": "2026-07-07T10:35:56.734870+00:00"
 }
