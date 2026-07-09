@@ -118,5 +118,12 @@
   "https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/": "2026-07-08T09:42:40.605146+00:00",
   "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/": "2026-07-08T09:42:40.605146+00:00",
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": "2026-07-08T09:42:40.605146+00:00",
-  "https://huggingface.co/blog/microsoft/foundry-managed-compute": "2026-07-08T09:42:40.605146+00:00"
+  "https://huggingface.co/blog/microsoft/foundry-managed-compute": "2026-07-08T09:42:40.605146+00:00",
+  "https://frappe.io/blog/engineering/building-great-software-with-agentic-coding": "2026-07-09T10:40:02.912847+00:00",
+  "https://www.databricks.com/blog/navigating-synapse-migration-databricks": "2026-07-09T10:40:02.912847+00:00",
+  "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase": "2026-07-09T10:40:02.912847+00:00",
+  "https://blog.cloudflare.com/meerkat-introduction/": "2026-07-09T10:40:02.912847+00:00",
+  "https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72/": "2026-07-09T10:40:02.912847+00:00",
+  "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/": "2026-07-09T10:40:02.912847+00:00",
+  "https://huggingface.co/blog/nvidia/open-data-for-agents": "2026-07-09T10:40:02.912847+00:00"
 }
