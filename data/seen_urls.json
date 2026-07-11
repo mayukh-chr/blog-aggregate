@@ -130,5 +130,14 @@
   "https://blog.cloudflare.com/ml-dsa-will-have-to-do/": "2026-07-10T10:31:17.913965+00:00",
   "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/": "2026-07-10T10:31:17.913965+00:00",
   "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale/": "2026-07-10T10:31:17.913965+00:00",
-  "https://huggingface.co/blog/torch-attention-profile": "2026-07-10T10:31:17.913965+00:00"
+  "https://huggingface.co/blog/torch-attention-profile": "2026-07-10T10:31:17.913965+00:00",
+  "https://www.databricks.com/blog/agentic-marketing-stack-starts-data-layer": "2026-07-11T09:02:45.652670+00:00",
+  "https://www.databricks.com/blog/introducing-feature-views": "2026-07-11T09:02:45.652670+00:00",
+  "https://www.confluent.io/blog/tableflow-kafka-iceberg/": "2026-07-11T09:02:45.652670+00:00",
+  "https://www.confluent.io/blog/redpanda-kafka-confluent-comparison/": "2026-07-11T09:02:45.652670+00:00",
+  "https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/": "2026-07-11T09:02:45.652670+00:00",
+  "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/": "2026-07-11T09:02:45.652670+00:00",
+  "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/": "2026-07-11T09:02:45.652670+00:00",
+  "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/": "2026-07-11T09:02:45.652670+00:00",
+  "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/": "2026-07-11T09:02:45.652670+00:00"
 }
