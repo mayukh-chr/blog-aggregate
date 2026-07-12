@@ -139,5 +139,6 @@
   "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/": "2026-07-11T09:02:45.652670+00:00",
   "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/": "2026-07-11T09:02:45.652670+00:00",
   "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/": "2026-07-11T09:02:45.652670+00:00",
-  "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/": "2026-07-11T09:02:45.652670+00:00"
+  "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/": "2026-07-11T09:02:45.652670+00:00",
+  "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/": "2026-07-12T09:22:50.090046+00:00"
 }
