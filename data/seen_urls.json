@@ -1,19 +1,4 @@
 {
-  "https://www.databricks.com/blog/databricks-and-nvidia-building-agentic-era": "2026-06-18T11:33:54.249073+00:00",
-  "https://www.databricks.com/blog/partner-well-architected-framework-whats-new-and-whats-next": "2026-06-18T11:33:54.249073+00:00",
-  "https://www.databricks.com/blog/whats-coming-next-free-edition": "2026-06-18T11:33:54.249073+00:00",
-  "https://www.databricks.com/blog/becoming-most-comprehensive-data-ai-ecosystem-earth": "2026-06-18T11:33:54.249073+00:00",
-  "https://www.databricks.com/blog/design-beautiful-dashboards-aibi": "2026-06-18T11:33:54.249073+00:00",
-  "https://www.databricks.com/blog/whats-new-genie-code-data-ai-summit-2026": "2026-06-18T11:33:54.249073+00:00",
-  "https://www.databricks.com/blog/whats-new-databricks-platform-security-and-compliance-data-ai-summit-2026": "2026-06-18T11:33:54.249073+00:00",
-  "https://blog.cloudflare.com/cloudflare-one-stack/": "2026-06-18T11:33:54.249073+00:00",
-  "https://huggingface.co/blog/allenai/molmomotion": "2026-06-18T11:33:54.249073+00:00",
-  "https://www.databricks.com/blog/how-stagwell-built-privacy-safe-id-matching-databricks": "2026-06-19T11:44:58.136272+00:00",
-  "https://www.confluent.io/blog/meeting-data-and-analytics-engineers-where-they-are-introducing-the-dbt-adapter-for-confluent-cloud/": "2026-06-19T11:44:58.136272+00:00",
-  "https://blog.cloudflare.com/build-your-own-vulnerability-harness/": "2026-06-19T11:44:58.136272+00:00",
-  "https://blog.cloudflare.com/celebrating-12-years-of-project-galileo/": "2026-06-19T11:44:58.136272+00:00",
-  "https://huggingface.co/blog/ServiceNow/mosaicleaks": "2026-06-19T11:44:58.136272+00:00",
-  "https://blog.cloudflare.com/temporary-accounts/": "2026-06-20T10:16:21.560828+00:00",
   "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/": "2026-06-22T13:08:36.507618+00:00",
   "https://sakana.ai/fugu-release/": "2026-06-22T13:08:36.507618+00:00",
   "https://blog.cloudflare.com/hyper-bug/": "2026-06-23T10:45:49.096658+00:00",
@@ -155,5 +140,6 @@
   "https://www.databricks.com/blog/building-soccer-coaching-app-databricks": "2026-07-18T09:05:50.197855+00:00",
   "https://www.databricks.com/blog/metas-spark-muse-11-now-available-databricks-fully-governed-unity-ai-gateway": "2026-07-18T09:05:50.197855+00:00",
   "https://blog.cloudflare.com/wordpress-vulnerabilities/": "2026-07-18T09:05:50.197855+00:00",
-  "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel": "2026-07-18T09:05:50.197855+00:00"
+  "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel": "2026-07-18T09:05:50.197855+00:00",
+  "https://frappe.io/blog/culture/a-demo-a-day": "2026-07-20T10:22:23.892691+00:00"
 }
