@@ -1,6 +1,4 @@
 {
-  "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/": "2026-06-22T13:08:36.507618+00:00",
-  "https://sakana.ai/fugu-release/": "2026-06-22T13:08:36.507618+00:00",
   "https://blog.cloudflare.com/hyper-bug/": "2026-06-23T10:45:49.096658+00:00",
   "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai/": "2026-06-23T10:45:49.096658+00:00",
   "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/": "2026-06-23T10:45:49.096658+00:00",
@@ -159,5 +157,8 @@
   "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/": "2026-07-22T09:44:05.472173+00:00",
   "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/": "2026-07-22T09:44:05.472173+00:00",
   "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/": "2026-07-22T09:44:05.472173+00:00",
-  "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai": "2026-07-22T09:44:05.472173+00:00"
+  "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai": "2026-07-22T09:44:05.472173+00:00",
+  "https://www.databricks.com/blog/simplify-ai-agent-orchestration-lakebase-postgres": "2026-07-23T09:43:43.485794+00:00",
+  "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/": "2026-07-23T09:43:43.485794+00:00",
+  "https://huggingface.co/blog/nunchaku-diffusers": "2026-07-23T09:43:43.485794+00:00"
 }
