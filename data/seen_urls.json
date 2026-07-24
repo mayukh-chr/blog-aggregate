@@ -1,10 +1,4 @@
 {
-  "https://blog.cloudflare.com/hyper-bug/": "2026-06-23T10:45:49.096658+00:00",
-  "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai/": "2026-06-23T10:45:49.096658+00:00",
-  "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/": "2026-06-23T10:45:49.096658+00:00",
-  "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/": "2026-06-23T10:45:49.096658+00:00",
-  "https://huggingface.co/blog/huggingface-hub-release-ci": "2026-06-23T10:45:49.096658+00:00",
-  "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6": "2026-06-23T10:45:49.096658+00:00",
   "https://www.databricks.com/blog/genesis-workbench-blueprint-industry-ai-life-sciences-powered-databricks-and-nvidia": "2026-06-24T10:29:45.804097+00:00",
   "https://www.confluent.io/blog/real-time-hyper-personalization-architecture/": "2026-06-24T10:29:45.804097+00:00",
   "https://www.confluent.io/blog/eliminate-training-serving-skew-mlops/": "2026-06-24T10:29:45.804097+00:00",
@@ -160,5 +154,14 @@
   "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai": "2026-07-22T09:44:05.472173+00:00",
   "https://www.databricks.com/blog/simplify-ai-agent-orchestration-lakebase-postgres": "2026-07-23T09:43:43.485794+00:00",
   "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/": "2026-07-23T09:43:43.485794+00:00",
-  "https://huggingface.co/blog/nunchaku-diffusers": "2026-07-23T09:43:43.485794+00:00"
+  "https://huggingface.co/blog/nunchaku-diffusers": "2026-07-23T09:43:43.485794+00:00",
+  "https://www.databricks.com/blog/how-fda-built-ai-platform-85-its-staff-now-use-daily": "2026-07-24T09:40:45.375952+00:00",
+  "https://www.databricks.com/blog/permission-isnt-purpose-intent-based-authorization-omnigent": "2026-07-24T09:40:45.375952+00:00",
+  "https://www.databricks.com/blog/provisioning-agentic-era-how-databricks-built-self-serve-infrastructure-vending-machine": "2026-07-24T09:40:45.375952+00:00",
+  "https://www.databricks.com/blog/why-frontier-data-agent-outperforms-general-coding-agents-quality-and-cost": "2026-07-24T09:40:45.375952+00:00",
+  "https://www.databricks.com/blog/connect-amazon-s3-data-databricks-delegated-iam-permissions": "2026-07-24T09:40:45.375952+00:00",
+  "https://www.databricks.com/blog/introducing-ai-spend-controls-unity-ai-gateway": "2026-07-24T09:40:45.375952+00:00",
+  "https://blog.cloudflare.com/introducing-cache-response-rules/": "2026-07-24T09:40:45.375952+00:00",
+  "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/": "2026-07-24T09:40:45.375952+00:00",
+  "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/": "2026-07-24T09:40:45.375952+00:00"
 }
