@@ -1,12 +1,4 @@
 {
-  "https://www.databricks.com/blog/genesis-workbench-blueprint-industry-ai-life-sciences-powered-databricks-and-nvidia": "2026-06-24T10:29:45.804097+00:00",
-  "https://www.confluent.io/blog/real-time-hyper-personalization-architecture/": "2026-06-24T10:29:45.804097+00:00",
-  "https://www.confluent.io/blog/eliminate-training-serving-skew-mlops/": "2026-06-24T10:29:45.804097+00:00",
-  "https://blog.cloudflare.com/post-quantum-eo-2026/": "2026-06-24T10:29:45.804097+00:00",
-  "https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations/": "2026-06-24T10:29:45.804097+00:00",
-  "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/": "2026-06-24T10:29:45.804097+00:00",
-  "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/": "2026-06-24T10:29:45.804097+00:00",
-  "https://huggingface.co/blog/ibm-research/cuga-apps": "2026-06-24T10:29:45.804097+00:00",
   "https://www.databricks.com/blog/rise-sports-intelligence-how-lakehouse-turns-tracking-data-competitive-advantage": "2026-06-25T10:23:02.165604+00:00",
   "https://www.databricks.com/blog/how-daikin-applied-americas-builds-consistent-data-pipelines-scale-genie-code": "2026-06-25T10:23:02.165604+00:00",
   "https://www.databricks.com/blog/what-if-answer-was-already-your-data": "2026-06-25T10:23:02.165604+00:00",
@@ -163,5 +155,8 @@
   "https://www.databricks.com/blog/introducing-ai-spend-controls-unity-ai-gateway": "2026-07-24T09:40:45.375952+00:00",
   "https://blog.cloudflare.com/introducing-cache-response-rules/": "2026-07-24T09:40:45.375952+00:00",
   "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/": "2026-07-24T09:40:45.375952+00:00",
-  "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/": "2026-07-24T09:40:45.375952+00:00"
+  "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/": "2026-07-24T09:40:45.375952+00:00",
+  "https://blog.pixperk.tech/container-runtime-in-cpp": "2026-07-25T09:15:19.332623+00:00",
+  "https://blog.cloudflare.com/bgp-origin-attribute/": "2026-07-25T09:15:19.332623+00:00",
+  "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/": "2026-07-25T09:15:19.332623+00:00"
 }
