@@ -1,8 +1,4 @@
 {
-  "https://www.confluent.io/blog/building-secure-resilient-and-compliant-fraud-detection-with-confluent-cloud/": "2026-06-30T10:42:05.613282+00:00",
-  "https://www.confluent.io/blog/stream-governance-making-compliance-a-property-of-data-in-motion/": "2026-06-30T10:42:05.613282+00:00",
-  "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/": "2026-06-30T10:42:05.613282+00:00",
-  "https://huggingface.co/blog/allenai/discoformer": "2026-06-30T10:42:05.613282+00:00",
   "https://frappe.io/blog/product-updates/product-updates-for-june-2026": "2026-07-01T10:51:47.332711+00:00",
   "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage": "2026-07-01T10:51:47.332711+00:00",
   "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/": "2026-07-01T10:51:47.332711+00:00",
@@ -164,5 +160,15 @@
   "https://www.databricks.com/blog/how-agentic-ai-can-help-telecom-finance-teams-protect-margin-when-every-moment-matters": "2026-07-30T09:55:55.254233+00:00",
   "https://www.confluent.io/blog/introducing-confluent-platform-8-3/": "2026-07-30T09:55:55.254233+00:00",
   "https://blog.cloudflare.com/post-quantum-authentication-to-origins/": "2026-07-30T09:55:55.254233+00:00",
-  "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/": "2026-07-30T09:55:55.254233+00:00"
+  "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/": "2026-07-30T09:55:55.254233+00:00",
+  "https://arpitbhayani.me/blogs/three-skills": "2026-07-31T10:02:21.716113+00:00",
+  "https://frappe.io/blog/product-updates/product-updates-for-july-2026": "2026-07-31T10:02:21.716113+00:00",
+  "https://www.databricks.com/blog/foundations-ai-forward-healthcare-organization": "2026-07-31T10:02:21.716113+00:00",
+  "https://www.databricks.com/blog/agentic-media-buying-cannot-scale-without-right-foundation-see-how-buyers-and-sellers-get": "2026-07-31T10:02:21.716113+00:00",
+  "https://blog.cloudflare.com/cdnjs-dev-platform-migration/": "2026-07-31T10:02:21.716113+00:00",
+  "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/": "2026-07-31T10:02:21.716113+00:00",
+  "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/": "2026-07-31T10:02:21.716113+00:00",
+  "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/": "2026-07-31T10:02:21.716113+00:00",
+  "https://huggingface.co/blog/Dharma-AI/gpu-management": "2026-07-31T10:02:21.716113+00:00",
+  "https://sakana.ai/product-development-interview/": "2026-07-31T10:02:21.716113+00:00"
 }
