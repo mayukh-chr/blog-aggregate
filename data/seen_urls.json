@@ -1,10 +1,4 @@
 {
-  "https://frappe.io/blog/product-updates/product-updates-for-june-2026": "2026-07-01T10:51:47.332711+00:00",
-  "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage": "2026-07-01T10:51:47.332711+00:00",
-  "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/": "2026-07-01T10:51:47.332711+00:00",
-  "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/": "2026-07-01T10:51:47.332711+00:00",
-  "https://huggingface.co/blog/ibm-research/scarfbench": "2026-07-01T10:51:47.332711+00:00",
-  "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable": "2026-07-01T10:51:47.332711+00:00",
   "https://www.databricks.com/blog/how-we-keep-gpus-reliable-across-databricks-ai": "2026-07-02T10:17:31.817064+00:00",
   "https://www.databricks.com/blog/celebrating-winners-2026-built-databricks-startup-challenge": "2026-07-02T10:17:31.817064+00:00",
   "https://www.databricks.com/blog/granular-usage-attribution-dbt-pipelines-query-tags": "2026-07-02T10:17:31.817064+00:00",
@@ -170,5 +164,9 @@
   "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/": "2026-07-31T10:02:21.716113+00:00",
   "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/": "2026-07-31T10:02:21.716113+00:00",
   "https://huggingface.co/blog/Dharma-AI/gpu-management": "2026-07-31T10:02:21.716113+00:00",
-  "https://sakana.ai/product-development-interview/": "2026-07-31T10:02:21.716113+00:00"
+  "https://sakana.ai/product-development-interview/": "2026-07-31T10:02:21.716113+00:00",
+  "https://www.databricks.com/blog/backstage-lakebase-part-3": "2026-08-01T09:29:07.675898+00:00",
+  "https://blog.cloudflare.com/moq-relays/": "2026-08-01T09:29:07.675898+00:00",
+  "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/": "2026-08-01T09:29:07.675898+00:00",
+  "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/": "2026-08-01T09:29:07.675898+00:00"
 }
