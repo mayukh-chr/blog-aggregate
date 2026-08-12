@@ -1,5 +1,4 @@
 {
-  "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/": "2026-07-12T09:22:50.090046+00:00",
   "https://frappe.io/blog/partner-success-stories/systems-are-only-as-smart-as-the-people-behind-them": "2026-07-13T10:38:00.793961+00:00",
   "https://sakana.ai/smart-cellular-bricks/": "2026-07-13T10:38:00.793961+00:00",
   "https://www.databricks.com/blog/how-unity-catalog-managed-tables-bring-interoperability-performance-and-unified-governance": "2026-07-14T09:20:47.812437+00:00",
@@ -172,5 +171,14 @@
   "https://blog.cloudflare.com/fedramp-class-d-certification/": "2026-08-11T08:28:58.154871+00:00",
   "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/": "2026-08-11T08:28:58.154871+00:00",
   "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents": "2026-08-11T08:28:58.154871+00:00",
-  "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation": "2026-08-11T08:28:58.154871+00:00"
+  "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation": "2026-08-11T08:28:58.154871+00:00",
+  "https://frappe.io/blog/conference/why-attend-frappeverse-2026": "2026-08-12T08:43:48.268366+00:00",
+  "https://www.databricks.com/blog/taking-auto-cdc-next-level-solving-hardest-real-world-use-cases": "2026-08-12T08:43:48.268366+00:00",
+  "https://www.databricks.com/blog/open-sourcing-metals-v2-databricks-java-and-scala-language-server-multi-million-line-codebases": "2026-08-12T08:43:48.268366+00:00",
+  "https://www.databricks.com/blog/modern-risk-demands-real-time-foundation-cros-mandate": "2026-08-12T08:43:48.268366+00:00",
+  "https://blog.cloudflare.com/ddos-threat-report-2026-h1/": "2026-08-12T08:43:48.268366+00:00",
+  "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/": "2026-08-12T08:43:48.268366+00:00",
+  "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/": "2026-08-12T08:43:48.268366+00:00",
+  "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/": "2026-08-12T08:43:48.268366+00:00",
+  "https://huggingface.co/blog/ibm-research/altk-evolve-sldd": "2026-08-12T08:43:48.268366+00:00"
 }
