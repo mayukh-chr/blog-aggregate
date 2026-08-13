@@ -1,6 +1,4 @@
 {
-  "https://frappe.io/blog/partner-success-stories/systems-are-only-as-smart-as-the-people-behind-them": "2026-07-13T10:38:00.793961+00:00",
-  "https://sakana.ai/smart-cellular-bricks/": "2026-07-13T10:38:00.793961+00:00",
   "https://www.databricks.com/blog/how-unity-catalog-managed-tables-bring-interoperability-performance-and-unified-governance": "2026-07-14T09:20:47.812437+00:00",
   "https://blog.cloudflare.com/introducing-precursor/": "2026-07-14T09:20:47.812437+00:00",
   "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/": "2026-07-14T09:20:47.812437+00:00",
@@ -180,5 +178,14 @@
   "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/": "2026-08-12T08:43:48.268366+00:00",
   "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/": "2026-08-12T08:43:48.268366+00:00",
   "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/": "2026-08-12T08:43:48.268366+00:00",
-  "https://huggingface.co/blog/ibm-research/altk-evolve-sldd": "2026-08-12T08:43:48.268366+00:00"
+  "https://huggingface.co/blog/ibm-research/altk-evolve-sldd": "2026-08-12T08:43:48.268366+00:00",
+  "https://www.databricks.com/blog/databricks-network-configuration-delivery-tens-millions-serverless-vms": "2026-08-13T08:48:24.201959+00:00",
+  "https://www.databricks.com/blog/how-amtrak-building-data-backbone-its-largest-transformation-over-50-years": "2026-08-13T08:48:24.201959+00:00",
+  "https://www.databricks.com/blog/how-major-freight-railroad-scaled-pipeline-creation-genie-code": "2026-08-13T08:48:24.201959+00:00",
+  "https://www.databricks.com/blog/future-data-analytics-why-ai-rewriting-analysts-job-description": "2026-08-13T08:48:24.201959+00:00",
+  "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/": "2026-08-13T08:48:24.201959+00:00",
+  "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories/": "2026-08-13T08:48:24.201959+00:00",
+  "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-08-13T08:48:24.201959+00:00",
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b": "2026-08-13T08:48:24.201959+00:00",
+  "https://sakana.ai/chat-update/": "2026-08-13T08:48:24.201959+00:00"
 }
