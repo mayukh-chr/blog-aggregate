@@ -1,8 +1,4 @@
 {
-  "https://www.databricks.com/blog/how-unity-catalog-managed-tables-bring-interoperability-performance-and-unified-governance": "2026-07-14T09:20:47.812437+00:00",
-  "https://blog.cloudflare.com/introducing-precursor/": "2026-07-14T09:20:47.812437+00:00",
-  "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/": "2026-07-14T09:20:47.812437+00:00",
-  "https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models/": "2026-07-14T09:20:47.812437+00:00",
   "https://www.databricks.com/blog/take-insights-anywhere-genie-one-mobile": "2026-07-15T09:25:37.170920+00:00",
   "https://www.databricks.com/blog/how-retail-finance-teams-are-using-agentic-ai-protect-omni-channel-margins": "2026-07-15T09:25:37.170920+00:00",
   "https://www.databricks.com/blog/foundational-context-cross-industry-function-specific-accelerators-lakebase": "2026-07-15T09:25:37.170920+00:00",
@@ -187,5 +183,12 @@
   "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories/": "2026-08-13T08:48:24.201959+00:00",
   "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-08-13T08:48:24.201959+00:00",
   "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b": "2026-08-13T08:48:24.201959+00:00",
-  "https://sakana.ai/chat-update/": "2026-08-13T08:48:24.201959+00:00"
+  "https://sakana.ai/chat-update/": "2026-08-13T08:48:24.201959+00:00",
+  "https://www.databricks.com/blog/how-scottish-water-made-its-capital-investment-data-conversational-databricks-genie": "2026-08-14T08:41:26.292706+00:00",
+  "https://www.databricks.com/blog/ai-hallucinations": "2026-08-14T08:41:26.292706+00:00",
+  "https://www.databricks.com/blog/smart-routing-unity-ai-gateway-match-frontier-quality-30-lower-cost-task": "2026-08-14T08:41:26.292706+00:00",
+  "https://www.confluent.io/blog/neuron-systems-fifa-world-cup-ai-on-confluent/": "2026-08-14T08:41:26.292706+00:00",
+  "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/": "2026-08-14T08:41:26.292706+00:00",
+  "https://blog.cloudflare.com/certificate-transparency-monitoring-ga/": "2026-08-14T08:41:26.292706+00:00",
+  "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": "2026-08-14T08:41:26.292706+00:00"
 }
