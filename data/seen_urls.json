@@ -1,13 +1,4 @@
 {
-  "https://www.databricks.com/blog/branching-databases-code-cicd-pattern-lakebase-production-glaspoort": "2026-07-21T09:56:44.652549+00:00",
-  "https://www.databricks.com/blog/scaling-document-classification-100k-labels": "2026-07-21T09:56:44.652549+00:00",
-  "https://www.databricks.com/blog/three-ways-ai-unlocks-transformation-retail-travel-and-consumer-goods": "2026-07-21T09:56:44.652549+00:00",
-  "https://blog.cloudflare.com/internal-dns/": "2026-07-21T09:56:44.652549+00:00",
-  "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/": "2026-07-21T09:56:44.652549+00:00",
-  "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/": "2026-07-21T09:56:44.652549+00:00",
-  "https://huggingface.co/blog/grabette": "2026-07-21T09:56:44.652549+00:00",
-  "https://huggingface.co/blog/nvidia/cosmos3edge": "2026-07-21T09:56:44.652549+00:00",
-  "https://sakana.ai/fugu-cyber-release/": "2026-07-21T09:56:44.652549+00:00",
   "https://www.databricks.com/blog/last-mile-first-party-data-great-marketing": "2026-07-22T09:44:05.472173+00:00",
   "https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there": "2026-07-22T09:44:05.472173+00:00",
   "https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale": "2026-07-22T09:44:05.472173+00:00",
@@ -178,5 +169,12 @@
   "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/": "2026-08-20T08:01:34.835785+00:00",
   "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/": "2026-08-20T08:01:34.835785+00:00",
   "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/": "2026-08-20T08:01:34.835785+00:00",
-  "https://huggingface.co/blog/LiquidAI/qad": "2026-08-20T08:01:34.835785+00:00"
+  "https://huggingface.co/blog/LiquidAI/qad": "2026-08-20T08:01:34.835785+00:00",
+  "https://www.databricks.com/blog/inbound-private-link-now-supports-account-level-genie-one-account-console-and-custom-urls": "2026-08-21T08:01:59.529849+00:00",
+  "https://www.databricks.com/blog/busting-sql-migration-myths-how-new-sql-features-make-lift-and-shift-lakehouse-easier": "2026-08-21T08:01:59.529849+00:00",
+  "https://blog.cloudflare.com/task-based-oauth-consent/": "2026-08-21T08:01:59.529849+00:00",
+  "https://blog.palantir.com/securing-software-at-the-speed-of-ai-0b1d7ddd2bf0?source=rss----3c87dc14372f---4": "2026-08-21T08:01:59.529849+00:00",
+  "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/": "2026-08-21T08:01:59.529849+00:00",
+  "https://huggingface.co/blog/LiquidAI/lfm25-dspark": "2026-08-21T08:01:59.529849+00:00",
+  "https://sakana.ai/translate-update/": "2026-08-21T08:01:59.529849+00:00"
 }
