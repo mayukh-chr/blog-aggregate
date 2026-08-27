@@ -1,13 +1,4 @@
 {
-  "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/": "2026-07-27T10:52:27.813020+00:00",
-  "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/": "2026-07-27T10:52:27.813020+00:00",
-  "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/": "2026-07-27T10:52:27.813020+00:00",
-  "https://huggingface.co/blog/nvidia/cosmos-h-dreams": "2026-07-27T10:52:27.813020+00:00",
-  "https://www.databricks.com/blog/get-started-genie-one-top-ai-cowork-use-cases-business-users": "2026-07-28T10:01:14.960438+00:00",
-  "https://www.databricks.com/blog/eu-digital-product-passport-traceability-deadline": "2026-07-28T10:01:14.960438+00:00",
-  "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/": "2026-07-28T10:01:14.960438+00:00",
-  "https://blog.palantir.com/ai-sovereignty-is-your-alpha-how-to-avoid-transferring-your-alpha-to-a-hosted-model-provider-774a1b35bf98?source=rss----3c87dc14372f---4": "2026-07-28T10:01:14.960438+00:00",
-  "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/": "2026-07-28T10:01:14.960438+00:00",
   "https://www.databricks.com/blog/how-northstar-anesthesia-built-scheduling-app-workforce-3000-clinicians-weeks": "2026-07-29T10:02:37.534561+00:00",
   "https://www.databricks.com/blog/prototype-production-high-qps-databricks-ai-search": "2026-07-29T10:02:37.534561+00:00",
   "https://www.databricks.com/blog/how-databricks-manages-its-own-coding-agent-spend-unity-ai-gateway-budgets": "2026-07-29T10:02:37.534561+00:00",
@@ -178,5 +169,13 @@
   "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/": "2026-08-26T08:04:51.962606+00:00",
   "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/": "2026-08-26T08:04:51.962606+00:00",
   "https://huggingface.co/blog/ibm-granite/granite-4-2": "2026-08-26T08:04:51.962606+00:00",
-  "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": "2026-08-26T08:04:51.962606+00:00"
+  "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": "2026-08-26T08:04:51.962606+00:00",
+  "https://www.databricks.com/blog/building-ai-era-lakebase-streaming-and-lakehouse-innovations-vldb-2026": "2026-08-27T18:20:20.930516+00:00",
+  "https://www.databricks.com/blog/what-qsr-reports-miss-about-decisions-matter-most": "2026-08-27T18:20:20.930516+00:00",
+  "https://www.databricks.com/blog/enhancing-agent-retrieval-structured-chart-extraction": "2026-08-27T18:20:20.930516+00:00",
+  "https://www.databricks.com/blog/vertical-advantage-transforming-industries-lakebase-and-agentic-ai": "2026-08-27T18:20:20.930516+00:00",
+  "https://www.databricks.com/blog/object-storage-wal-lakebase-postgres-agentic-era": "2026-08-27T18:20:20.930516+00:00",
+  "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/": "2026-08-27T18:20:20.930516+00:00",
+  "https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/": "2026-08-27T18:20:20.930516+00:00",
+  "https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/": "2026-08-27T18:20:20.930516+00:00"
 }
