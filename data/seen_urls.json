@@ -1,6 +1,4 @@
 {
-  "https://blog.cloudflare.com/agents-week-welcome/": "2026-08-03T10:53:17.884106+00:00",
-  "https://sakana.ai/namazu-api/": "2026-08-03T10:53:17.884106+00:00",
   "https://www.databricks.com/blog/new-monday-morning-report-how-generative-ai-can-deliver-insights-your-executives-need": "2026-08-04T10:05:36.963013+00:00",
   "https://www.databricks.com/blog/ingest-semi-structured-data-faster-and-more-efficiently-variant-now-generally-available": "2026-08-04T10:05:36.963013+00:00",
   "https://www.databricks.com/blog/databricks-completes-acquisition-panther-accelerating-security-lakehouse-era": "2026-08-04T10:05:36.963013+00:00",
@@ -158,5 +156,16 @@
   "https://frappe.io/blog/product-updates/product-updates-for-august-2026": "2026-09-01T12:38:05.351386+00:00",
   "https://www.databricks.com/blog/autoscaling-lakebase-postgres": "2026-09-01T12:38:05.351386+00:00",
   "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/": "2026-09-01T12:38:05.351386+00:00",
-  "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/": "2026-09-01T12:38:05.351386+00:00"
+  "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/": "2026-09-01T12:38:05.351386+00:00",
+  "https://www.databricks.com/blog/announcing-databricks-big-book-agentops": "2026-09-02T12:10:09.958663+00:00",
+  "https://www.databricks.com/blog/how-fda-building-secure-ai-ready-data-foundation-databricks-government": "2026-09-02T12:10:09.958663+00:00",
+  "https://www.databricks.com/blog/how-we-eliminated-1-million-year-wasted-ai-agent-spend-one-hour": "2026-09-02T12:10:09.958663+00:00",
+  "https://www.databricks.com/blog/collaboration-makes-us-all-stronger": "2026-09-02T12:10:09.958663+00:00",
+  "https://www.databricks.com/blog/operationalizing-genie-ontology-your-data-stack": "2026-09-02T12:10:09.958663+00:00",
+  "https://www.databricks.com/blog/new-brickbuilder-partner-network-tiers-isvs-and-data-providers-are-here": "2026-09-02T12:10:09.958663+00:00",
+  "https://www.databricks.com/blog/how-discovery-bank-delivers-hyper-personalized-banking-scale-behavioral-ai-governed-data-and": "2026-09-02T12:10:09.958663+00:00",
+  "https://blog.cloudflare.com/cache-transcoding/": "2026-09-02T12:10:09.958663+00:00",
+  "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/": "2026-09-02T12:10:09.958663+00:00",
+  "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/": "2026-09-02T12:10:09.958663+00:00",
+  "https://huggingface.co/blog/allenai/benchmirt": "2026-09-02T12:10:09.958663+00:00"
 }
