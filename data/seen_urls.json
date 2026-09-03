@@ -1,14 +1,4 @@
 {
-  "https://www.databricks.com/blog/new-monday-morning-report-how-generative-ai-can-deliver-insights-your-executives-need": "2026-08-04T10:05:36.963013+00:00",
-  "https://www.databricks.com/blog/ingest-semi-structured-data-faster-and-more-efficiently-variant-now-generally-available": "2026-08-04T10:05:36.963013+00:00",
-  "https://www.databricks.com/blog/databricks-completes-acquisition-panther-accelerating-security-lakehouse-era": "2026-08-04T10:05:36.963013+00:00",
-  "https://blog.cloudflare.com/cloudflare-computer/": "2026-08-04T10:05:36.963013+00:00",
-  "https://blog.cloudflare.com/grpc-workers/": "2026-08-04T10:05:36.963013+00:00",
-  "https://blog.cloudflare.com/billable-usage-api/": "2026-08-04T10:05:36.963013+00:00",
-  "https://blog.cloudflare.com/smaller-faster-safer-models/": "2026-08-04T10:05:36.963013+00:00",
-  "https://blog.cloudflare.com/python-workers-rpc/": "2026-08-04T10:05:36.963013+00:00",
-  "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/": "2026-08-04T10:05:36.963013+00:00",
-  "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/": "2026-08-04T10:05:36.963013+00:00",
   "https://www.databricks.com/blog/unity-ai-gateway-generally-available": "2026-08-05T10:02:22.564948+00:00",
   "https://www.databricks.com/blog/databricks-joins-open-secure-ai-alliance-advance-ai-safety-and-security": "2026-08-05T10:02:22.564948+00:00",
   "https://blog.cloudflare.com/agent-development-lifecycle/": "2026-08-05T10:02:22.564948+00:00",
@@ -167,5 +157,14 @@
   "https://blog.cloudflare.com/cache-transcoding/": "2026-09-02T12:10:09.958663+00:00",
   "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/": "2026-09-02T12:10:09.958663+00:00",
   "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/": "2026-09-02T12:10:09.958663+00:00",
-  "https://huggingface.co/blog/allenai/benchmirt": "2026-09-02T12:10:09.958663+00:00"
+  "https://huggingface.co/blog/allenai/benchmirt": "2026-09-02T12:10:09.958663+00:00",
+  "https://frappe.io/blog/engineering/half-a-billion-ledger-entries": "2026-09-03T12:09:46.893450+00:00",
+  "https://www.databricks.com/blog/southern-companys-scout-completing-storm-intelligence-story": "2026-09-03T12:09:46.893450+00:00",
+  "https://www.databricks.com/blog/expanding-genie-agents-deep-analysis-file-reasoning-and-more": "2026-09-03T12:09:46.893450+00:00",
+  "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/": "2026-09-03T12:09:46.893450+00:00",
+  "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/": "2026-09-03T12:09:46.893450+00:00",
+  "https://huggingface.co/blog/grpo-with-trl-ifstruct": "2026-09-03T12:09:46.893450+00:00",
+  "https://huggingface.co/blog/funes": "2026-09-03T12:09:46.893450+00:00",
+  "https://huggingface.co/blog/train-to-paint-with-code": "2026-09-03T12:09:46.893450+00:00",
+  "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-03T12:09:46.893450+00:00"
 }
