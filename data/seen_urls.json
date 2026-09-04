@@ -1,17 +1,4 @@
 {
-  "https://www.databricks.com/blog/unity-ai-gateway-generally-available": "2026-08-05T10:02:22.564948+00:00",
-  "https://www.databricks.com/blog/databricks-joins-open-secure-ai-alliance-advance-ai-safety-and-security": "2026-08-05T10:02:22.564948+00:00",
-  "https://blog.cloudflare.com/agent-development-lifecycle/": "2026-08-05T10:02:22.564948+00:00",
-  "https://blog.cloudflare.com/wallets/": "2026-08-05T10:02:22.564948+00:00",
-  "https://blog.cloudflare.com/ci-workflows/": "2026-08-05T10:02:22.564948+00:00",
-  "https://blog.cloudflare.com/engineering-standards-enforcement/": "2026-08-05T10:02:22.564948+00:00",
-  "https://blog.cloudflare.com/agents-on-cloudflare/": "2026-08-05T10:02:22.564948+00:00",
-  "https://blog.cloudflare.com/local-tracing/": "2026-08-05T10:02:22.564948+00:00",
-  "https://blog.cloudflare.com/astro-issue-triage/": "2026-08-05T10:02:22.564948+00:00",
-  "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/": "2026-08-05T10:02:22.564948+00:00",
-  "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/": "2026-08-05T10:02:22.564948+00:00",
-  "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b": "2026-08-05T10:02:22.564948+00:00",
-  "https://sakana.ai/daiwa-shoken-full-scale/": "2026-08-05T10:02:22.564948+00:00",
   "https://arpitbhayani.me/blogs/ai-first-org": "2026-08-06T10:04:38.450619+00:00",
   "https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/": "2026-08-06T10:04:38.450619+00:00",
   "https://blog.cloudflare.com/the-agent-access-model/": "2026-08-06T10:04:38.450619+00:00",
@@ -166,5 +153,13 @@
   "https://huggingface.co/blog/grpo-with-trl-ifstruct": "2026-09-03T12:09:46.893450+00:00",
   "https://huggingface.co/blog/funes": "2026-09-03T12:09:46.893450+00:00",
   "https://huggingface.co/blog/train-to-paint-with-code": "2026-09-03T12:09:46.893450+00:00",
-  "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-03T12:09:46.893450+00:00"
+  "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-03T12:09:46.893450+00:00",
+  "https://arpitbhayani.me/notes/ai-makes-pull-requests-less-central-in-open-source-contribution": "2026-09-04T12:10:54.052665+00:00",
+  "https://www.databricks.com/blog/governance-beyond-security-knowledge-context-ontology-lakehouse": "2026-09-04T12:10:54.052665+00:00",
+  "https://www.databricks.com/blog/building-high-quality-and-trusted-data-products-databricks": "2026-09-04T12:10:54.052665+00:00",
+  "https://www.databricks.com/blog/what-is-data-transformation": "2026-09-04T12:10:54.052665+00:00",
+  "https://blog.cloudflare.com/vulnerability-discovery-remediation/": "2026-09-04T12:10:54.052665+00:00",
+  "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/": "2026-09-04T12:10:54.052665+00:00",
+  "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network/": "2026-09-04T12:10:54.052665+00:00",
+  "https://huggingface.co/blog/Hcompany/neomme": "2026-09-04T12:10:54.052665+00:00"
 }
