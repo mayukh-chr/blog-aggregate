@@ -1,11 +1,4 @@
 {
-  "https://arpitbhayani.me/blogs/ai-first-org": "2026-08-06T10:04:38.450619+00:00",
-  "https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/": "2026-08-06T10:04:38.450619+00:00",
-  "https://blog.cloudflare.com/the-agent-access-model/": "2026-08-06T10:04:38.450619+00:00",
-  "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/": "2026-08-06T10:04:38.450619+00:00",
-  "https://blog.cloudflare.com/cloudflare-os/": "2026-08-06T10:04:38.450619+00:00",
-  "https://blog.cloudflare.com/mcp-portal-writeguard-private-beta/": "2026-08-06T10:04:38.450619+00:00",
-  "https://blog.cloudflare.com/identity-aware-ai-gateway/": "2026-08-06T10:04:38.450619+00:00",
   "https://www.databricks.com/blog/agentic-workflows": "2026-08-07T08:32:54.581362+00:00",
   "https://www.databricks.com/blog/what-is-tool-calling": "2026-08-07T08:32:54.581362+00:00",
   "https://www.databricks.com/blog/introducing-officeqa-pro-v2-new-benchmark-enterprise-grounded-reasoning": "2026-08-07T08:32:54.581362+00:00",
@@ -161,5 +154,9 @@
   "https://blog.cloudflare.com/vulnerability-discovery-remediation/": "2026-09-04T12:10:54.052665+00:00",
   "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/": "2026-09-04T12:10:54.052665+00:00",
   "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network/": "2026-09-04T12:10:54.052665+00:00",
-  "https://huggingface.co/blog/Hcompany/neomme": "2026-09-04T12:10:54.052665+00:00"
+  "https://huggingface.co/blog/Hcompany/neomme": "2026-09-04T12:10:54.052665+00:00",
+  "https://www.databricks.com/blog/achieving-extreme-efficiency-through-specialized-gpu-kernel-generation": "2026-09-05T11:18:36.733327+00:00",
+  "https://www.databricks.com/blog/five-ways-marketers-can-use-genie-one": "2026-09-05T11:18:36.733327+00:00",
+  "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/": "2026-09-05T11:18:36.733327+00:00",
+  "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson/": "2026-09-05T11:18:36.733327+00:00"
 }
