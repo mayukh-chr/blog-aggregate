@@ -1,5 +1,4 @@
 {
-  "https://sakana.ai/fugu-gemma4/": "2026-08-10T08:54:46.080525+00:00",
   "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance": "2026-08-11T08:28:58.154871+00:00",
   "https://www.databricks.com/blog/innocent-until-combined-blocking-lethal-trifecta-omnigent-contextual-policies": "2026-08-11T08:28:58.154871+00:00",
   "https://www.databricks.com/blog/introducing-file-type-native-column-type-multimodal-data": "2026-08-11T08:28:58.154871+00:00",
@@ -142,5 +141,10 @@
   "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/": "2026-09-05T11:18:36.733327+00:00",
   "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson/": "2026-09-05T11:18:36.733327+00:00",
   "https://arpitbhayani.me/notes/engineering-speed-and-abstractions-create-longer-failure-paths-an-unacknowledged-tradeoff": "2026-09-07T13:34:54.909152+00:00",
-  "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/": "2026-09-08T12:12:21.851249+00:00"
+  "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/": "2026-09-08T12:12:21.851249+00:00",
+  "https://www.databricks.com/blog/evaluation-first-ai-agents-how-zepto-scales-customer-support-databricks-and-mlflow": "2026-09-09T12:23:58.797523+00:00",
+  "https://www.databricks.com/blog/sql-data-types": "2026-09-09T12:23:58.797523+00:00",
+  "https://www.databricks.com/blog/build-durable-agents-temporal-and-lakebase": "2026-09-09T12:23:58.797523+00:00",
+  "https://blog.cloudflare.com/automatic-key-exchange-for-origins/": "2026-09-09T12:23:58.797523+00:00",
+  "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom": "2026-09-09T12:23:58.797523+00:00"
 }
