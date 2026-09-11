@@ -1,13 +1,4 @@
 {
-  "https://frappe.io/blog/conference/why-attend-frappeverse-2026": "2026-08-12T08:43:48.268366+00:00",
-  "https://www.databricks.com/blog/taking-auto-cdc-next-level-solving-hardest-real-world-use-cases": "2026-08-12T08:43:48.268366+00:00",
-  "https://www.databricks.com/blog/open-sourcing-metals-v2-databricks-java-and-scala-language-server-multi-million-line-codebases": "2026-08-12T08:43:48.268366+00:00",
-  "https://www.databricks.com/blog/modern-risk-demands-real-time-foundation-cros-mandate": "2026-08-12T08:43:48.268366+00:00",
-  "https://blog.cloudflare.com/ddos-threat-report-2026-h1/": "2026-08-12T08:43:48.268366+00:00",
-  "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/": "2026-08-12T08:43:48.268366+00:00",
-  "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/": "2026-08-12T08:43:48.268366+00:00",
-  "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/": "2026-08-12T08:43:48.268366+00:00",
-  "https://huggingface.co/blog/ibm-research/altk-evolve-sldd": "2026-08-12T08:43:48.268366+00:00",
   "https://www.databricks.com/blog/databricks-network-configuration-delivery-tens-millions-serverless-vms": "2026-08-13T08:48:24.201959+00:00",
   "https://www.databricks.com/blog/how-amtrak-building-data-backbone-its-largest-transformation-over-50-years": "2026-08-13T08:48:24.201959+00:00",
   "https://www.databricks.com/blog/how-major-freight-railroad-scaled-pipeline-creation-genie-code": "2026-08-13T08:48:24.201959+00:00",
@@ -150,5 +141,12 @@
   "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/": "2026-09-10T12:17:16.589516+00:00",
   "https://huggingface.co/blog/gradio-workflow-1111": "2026-09-10T12:17:16.589516+00:00",
   "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": "2026-09-10T12:17:16.589516+00:00",
-  "https://sakana.ai/scsk-sc-partnership/": "2026-09-10T12:17:16.589516+00:00"
+  "https://sakana.ai/scsk-sc-partnership/": "2026-09-10T12:17:16.589516+00:00",
+  "https://www.databricks.com/blog/unifying-governance-across-engines-and-catalogs-open-lakehouse": "2026-09-11T12:15:45.394567+00:00",
+  "https://www.databricks.com/blog/improving-lakebase-postgres-compute-cache": "2026-09-11T12:15:45.394567+00:00",
+  "https://www.confluent.io/blog/building-an-agentic-soc-on-a-stream/": "2026-09-11T12:15:45.394567+00:00",
+  "https://blog.cloudflare.com/post-quantum-dnssec-1111/": "2026-09-11T12:15:45.394567+00:00",
+  "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/": "2026-09-11T12:15:45.394567+00:00",
+  "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/": "2026-09-11T12:15:45.394567+00:00",
+  "https://sakana.ai/fugu-max-release/": "2026-09-11T12:15:45.394567+00:00"
 }
