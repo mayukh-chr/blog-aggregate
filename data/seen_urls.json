@@ -1,13 +1,4 @@
 {
-  "https://www.databricks.com/blog/databricks-network-configuration-delivery-tens-millions-serverless-vms": "2026-08-13T08:48:24.201959+00:00",
-  "https://www.databricks.com/blog/how-amtrak-building-data-backbone-its-largest-transformation-over-50-years": "2026-08-13T08:48:24.201959+00:00",
-  "https://www.databricks.com/blog/how-major-freight-railroad-scaled-pipeline-creation-genie-code": "2026-08-13T08:48:24.201959+00:00",
-  "https://www.databricks.com/blog/future-data-analytics-why-ai-rewriting-analysts-job-description": "2026-08-13T08:48:24.201959+00:00",
-  "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/": "2026-08-13T08:48:24.201959+00:00",
-  "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories/": "2026-08-13T08:48:24.201959+00:00",
-  "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-08-13T08:48:24.201959+00:00",
-  "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b": "2026-08-13T08:48:24.201959+00:00",
-  "https://sakana.ai/chat-update/": "2026-08-13T08:48:24.201959+00:00",
   "https://www.databricks.com/blog/how-scottish-water-made-its-capital-investment-data-conversational-databricks-genie": "2026-08-14T08:41:26.292706+00:00",
   "https://www.databricks.com/blog/ai-hallucinations": "2026-08-14T08:41:26.292706+00:00",
   "https://www.databricks.com/blog/smart-routing-unity-ai-gateway-match-frontier-quality-30-lower-cost-task": "2026-08-14T08:41:26.292706+00:00",
@@ -148,5 +139,8 @@
   "https://blog.cloudflare.com/post-quantum-dnssec-1111/": "2026-09-11T12:15:45.394567+00:00",
   "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/": "2026-09-11T12:15:45.394567+00:00",
   "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/": "2026-09-11T12:15:45.394567+00:00",
-  "https://sakana.ai/fugu-max-release/": "2026-09-11T12:15:45.394567+00:00"
+  "https://sakana.ai/fugu-max-release/": "2026-09-11T12:15:45.394567+00:00",
+  "https://www.databricks.com/blog/health-plans-your-bi-tells-you-mlr-moved-can-your-ai-tell-you-why": "2026-09-12T11:39:49.654411+00:00",
+  "https://www.databricks.com/blog/unify-your-marketing-data-lakeflow-connect": "2026-09-12T11:39:49.654411+00:00",
+  "https://blog.cloudflare.com/casb-policies/": "2026-09-12T11:39:49.654411+00:00"
 }
