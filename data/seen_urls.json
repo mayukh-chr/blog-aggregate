@@ -1,14 +1,4 @@
 {
-  "https://www.databricks.com/blog/how-scottish-water-made-its-capital-investment-data-conversational-databricks-genie": "2026-08-14T08:41:26.292706+00:00",
-  "https://www.databricks.com/blog/ai-hallucinations": "2026-08-14T08:41:26.292706+00:00",
-  "https://www.databricks.com/blog/smart-routing-unity-ai-gateway-match-frontier-quality-30-lower-cost-task": "2026-08-14T08:41:26.292706+00:00",
-  "https://www.confluent.io/blog/neuron-systems-fifa-world-cup-ai-on-confluent/": "2026-08-14T08:41:26.292706+00:00",
-  "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/": "2026-08-14T08:41:26.292706+00:00",
-  "https://blog.cloudflare.com/certificate-transparency-monitoring-ga/": "2026-08-14T08:41:26.292706+00:00",
-  "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": "2026-08-14T08:41:26.292706+00:00",
-  "https://www.databricks.com/blog/using-aifunctions-your-data-warehouse-top-use-cases": "2026-08-15T07:48:57.526477+00:00",
-  "https://blog.cloudflare.com/mcp-security-updates/": "2026-08-15T07:48:57.526477+00:00",
-  "https://blog.cloudflare.com/workers-protected-by-access/": "2026-08-15T07:48:57.526477+00:00",
   "https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup": "2026-08-18T07:58:53.013156+00:00",
   "https://www.databricks.com/blog/how-databricks-feature-store-serves-features-sub-second-freshness": "2026-08-18T07:58:53.013156+00:00",
   "https://www.databricks.com/blog/prototyping-tax-killing-your-ai-roadmap": "2026-08-18T07:58:53.013156+00:00",
@@ -142,5 +132,10 @@
   "https://sakana.ai/fugu-max-release/": "2026-09-11T12:15:45.394567+00:00",
   "https://www.databricks.com/blog/health-plans-your-bi-tells-you-mlr-moved-can-your-ai-tell-you-why": "2026-09-12T11:39:49.654411+00:00",
   "https://www.databricks.com/blog/unify-your-marketing-data-lakeflow-connect": "2026-09-12T11:39:49.654411+00:00",
-  "https://blog.cloudflare.com/casb-policies/": "2026-09-12T11:39:49.654411+00:00"
+  "https://blog.cloudflare.com/casb-policies/": "2026-09-12T11:39:49.654411+00:00",
+  "https://frappe.io/blog/culture/conversations-make-the-ecosystem": "2026-09-15T12:45:19.179736+00:00",
+  "https://www.databricks.com/blog/managed-postgres": "2026-09-15T12:45:19.179736+00:00",
+  "https://www.databricks.com/blog/announcing-demand-state-repartitioning-apache-sparktm-structured-streaming-databricks": "2026-09-15T12:45:19.179736+00:00",
+  "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/": "2026-09-15T12:45:19.179736+00:00",
+  "https://sakana.ai/inside-product-team/": "2026-09-15T12:45:19.179736+00:00"
 }
