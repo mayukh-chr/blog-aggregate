@@ -137,5 +137,15 @@
   "https://www.databricks.com/blog/managed-postgres": "2026-09-15T12:45:19.179736+00:00",
   "https://www.databricks.com/blog/announcing-demand-state-repartitioning-apache-sparktm-structured-streaming-databricks": "2026-09-15T12:45:19.179736+00:00",
   "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/": "2026-09-15T12:45:19.179736+00:00",
-  "https://sakana.ai/inside-product-team/": "2026-09-15T12:45:19.179736+00:00"
+  "https://sakana.ai/inside-product-team/": "2026-09-15T12:45:19.179736+00:00",
+  "https://www.databricks.com/blog/how-energy-teams-turn-theft-detection-governed-action-genie-and-ai-business-processes": "2026-09-16T12:40:00.649887+00:00",
+  "https://www.confluent.io/blog/third-party-risk-assessments-or-how-confluent-helps-you-move-faster-with-confidence/": "2026-09-16T12:40:00.649887+00:00",
+  "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/": "2026-09-16T12:40:00.649887+00:00",
+  "https://blog.cloudflare.com/workers-granular-authorization/": "2026-09-16T12:40:00.649887+00:00",
+  "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/": "2026-09-16T12:40:00.649887+00:00",
+  "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/": "2026-09-16T12:40:00.649887+00:00",
+  "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/": "2026-09-16T12:40:00.649887+00:00",
+  "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare/": "2026-09-16T12:40:00.649887+00:00",
+  "https://huggingface.co/blog/ibm-research/altk-evolve-consistency": "2026-09-16T12:40:00.649887+00:00",
+  "https://sakana.ai/marlin-update/": "2026-09-16T12:40:00.649887+00:00"
 }
