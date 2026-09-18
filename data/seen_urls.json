@@ -1,12 +1,4 @@
 {
-  "https://www.databricks.com/blog/databricks-document-intelligence-pushing-frontier-complex-document-extraction": "2026-08-19T07:58:20.841908+00:00",
-  "https://www.databricks.com/blog/when-it-comes-governance-retailers-need-control-plane-context": "2026-08-19T07:58:20.841908+00:00",
-  "https://www.confluent.io/blog/2026-q3-confluent-cloud-launch/": "2026-08-19T07:58:20.841908+00:00",
-  "https://www.confluent.io/blog/2026-q3-confluent-intelligence-ai-update/": "2026-08-19T07:58:20.841908+00:00",
-  "https://blog.cloudflare.com/rfc9234-bgp-role-model/": "2026-08-19T07:58:20.841908+00:00",
-  "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/": "2026-08-19T07:58:20.841908+00:00",
-  "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy/": "2026-08-19T07:58:20.841908+00:00",
-  "https://huggingface.co/blog/ibm-research/altk-evolve-hmm": "2026-08-19T07:58:20.841908+00:00",
   "https://www.databricks.com/blog/designing-effective-genie-agents-single-prompt": "2026-08-20T08:01:34.835785+00:00",
   "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/": "2026-08-20T08:01:34.835785+00:00",
   "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/": "2026-08-20T08:01:34.835785+00:00",
@@ -148,5 +140,10 @@
   "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/": "2026-09-17T12:39:16.207477+00:00",
   "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/": "2026-09-17T12:39:16.207477+00:00",
   "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/": "2026-09-17T12:39:16.207477+00:00",
-  "https://sakana.ai/chat-fugumax/": "2026-09-17T12:39:16.207477+00:00"
+  "https://sakana.ai/chat-fugumax/": "2026-09-17T12:39:16.207477+00:00",
+  "https://www.databricks.com/blog/database-for-ai-agents": "2026-09-18T12:17:19.671086+00:00",
+  "https://www.databricks.com/blog/web-search-your-agent-inherited-isnt-good-enough": "2026-09-18T12:17:19.671086+00:00",
+  "https://www.databricks.com/blog/what-is-aiops": "2026-09-18T12:17:19.671086+00:00",
+  "https://www.databricks.com/blog/modernizing-trade-lifecycle-governed-data-and-ai": "2026-09-18T12:17:19.671086+00:00",
+  "https://sakana.ai/frontier-intelligence-group/": "2026-09-18T12:17:19.671086+00:00"
 }
