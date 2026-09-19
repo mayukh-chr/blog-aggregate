@@ -1,11 +1,4 @@
 {
-  "https://www.databricks.com/blog/designing-effective-genie-agents-single-prompt": "2026-08-20T08:01:34.835785+00:00",
-  "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/": "2026-08-20T08:01:34.835785+00:00",
-  "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/": "2026-08-20T08:01:34.835785+00:00",
-  "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/": "2026-08-20T08:01:34.835785+00:00",
-  "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/": "2026-08-20T08:01:34.835785+00:00",
-  "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/": "2026-08-20T08:01:34.835785+00:00",
-  "https://huggingface.co/blog/LiquidAI/qad": "2026-08-20T08:01:34.835785+00:00",
   "https://www.databricks.com/blog/inbound-private-link-now-supports-account-level-genie-one-account-console-and-custom-urls": "2026-08-21T08:01:59.529849+00:00",
   "https://www.databricks.com/blog/busting-sql-migration-myths-how-new-sql-features-make-lift-and-shift-lakehouse-easier": "2026-08-21T08:01:59.529849+00:00",
   "https://blog.cloudflare.com/task-based-oauth-consent/": "2026-08-21T08:01:59.529849+00:00",
@@ -145,5 +138,9 @@
   "https://www.databricks.com/blog/web-search-your-agent-inherited-isnt-good-enough": "2026-09-18T12:17:19.671086+00:00",
   "https://www.databricks.com/blog/what-is-aiops": "2026-09-18T12:17:19.671086+00:00",
   "https://www.databricks.com/blog/modernizing-trade-lifecycle-governed-data-and-ai": "2026-09-18T12:17:19.671086+00:00",
-  "https://sakana.ai/frontier-intelligence-group/": "2026-09-18T12:17:19.671086+00:00"
+  "https://sakana.ai/frontier-intelligence-group/": "2026-09-18T12:17:19.671086+00:00",
+  "https://www.databricks.com/blog/radar-catch-gray-failures-anomaly-detection": "2026-09-19T11:58:28.943215+00:00",
+  "https://www.databricks.com/blog/enabling-secure-productive-work-personal-devices": "2026-09-19T11:58:28.943215+00:00",
+  "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/": "2026-09-19T11:58:28.943215+00:00",
+  "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/": "2026-09-19T11:58:28.943215+00:00"
 }
