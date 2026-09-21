@@ -1,17 +1,4 @@
 {
-  "https://www.databricks.com/blog/inbound-private-link-now-supports-account-level-genie-one-account-console-and-custom-urls": "2026-08-21T08:01:59.529849+00:00",
-  "https://www.databricks.com/blog/busting-sql-migration-myths-how-new-sql-features-make-lift-and-shift-lakehouse-easier": "2026-08-21T08:01:59.529849+00:00",
-  "https://blog.cloudflare.com/task-based-oauth-consent/": "2026-08-21T08:01:59.529849+00:00",
-  "https://blog.palantir.com/securing-software-at-the-speed-of-ai-0b1d7ddd2bf0?source=rss----3c87dc14372f---4": "2026-08-21T08:01:59.529849+00:00",
-  "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/": "2026-08-21T08:01:59.529849+00:00",
-  "https://huggingface.co/blog/LiquidAI/lfm25-dspark": "2026-08-21T08:01:59.529849+00:00",
-  "https://sakana.ai/translate-update/": "2026-08-21T08:01:59.529849+00:00",
-  "https://www.databricks.com/blog/connecting-retail-demand-planning-campaign-and-store-execution": "2026-08-22T07:50:43.479345+00:00",
-  "https://blog.cloudflare.com/bot-preference-sync/": "2026-08-22T07:50:43.479345+00:00",
-  "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale/": "2026-08-22T07:50:43.479345+00:00",
-  "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/": "2026-08-22T07:50:43.479345+00:00",
-  "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/": "2026-08-22T07:50:43.479345+00:00",
-  "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/": "2026-08-22T07:50:43.479345+00:00",
   "https://sakana.ai/defense-integrated-analysis/": "2026-08-24T08:08:54.433428+00:00",
   "https://www.databricks.com/blog/run-debug-and-scale-databricks-workloads-your-local-ide": "2026-08-25T08:09:00.478545+00:00",
   "https://www.databricks.com/blog/how-databricks-uses-ai-accelerate-incident-investigation": "2026-08-25T08:09:00.478545+00:00",
@@ -142,5 +129,8 @@
   "https://www.databricks.com/blog/radar-catch-gray-failures-anomaly-detection": "2026-09-19T11:58:28.943215+00:00",
   "https://www.databricks.com/blog/enabling-secure-productive-work-personal-devices": "2026-09-19T11:58:28.943215+00:00",
   "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/": "2026-09-19T11:58:28.943215+00:00",
-  "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/": "2026-09-19T11:58:28.943215+00:00"
+  "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/": "2026-09-19T11:58:28.943215+00:00",
+  "https://blog.cloudflare.com/python-workers-ga/": "2026-09-21T14:22:09.503510+00:00",
+  "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": "2026-09-21T14:22:09.503510+00:00",
+  "https://huggingface.co/blog/tokenizers-v1": "2026-09-21T14:22:09.503510+00:00"
 }
