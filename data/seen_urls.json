@@ -132,5 +132,12 @@
   "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/": "2026-09-19T11:58:28.943215+00:00",
   "https://blog.cloudflare.com/python-workers-ga/": "2026-09-21T14:22:09.503510+00:00",
   "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": "2026-09-21T14:22:09.503510+00:00",
-  "https://huggingface.co/blog/tokenizers-v1": "2026-09-21T14:22:09.503510+00:00"
+  "https://huggingface.co/blog/tokenizers-v1": "2026-09-21T14:22:09.503510+00:00",
+  "https://frappe.io/blog/culture/its-not-just-about-you": "2026-09-22T12:42:03.403203+00:00",
+  "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/": "2026-09-22T12:42:03.403203+00:00",
+  "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/": "2026-09-22T12:42:03.403203+00:00",
+  "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/": "2026-09-22T12:42:03.403203+00:00",
+  "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2/": "2026-09-22T12:42:03.403203+00:00",
+  "https://huggingface.co/blog/transformers-llama-cpp-quants": "2026-09-22T12:42:03.403203+00:00",
+  "https://huggingface.co/blog/omlx": "2026-09-22T12:42:03.403203+00:00"
 }
