@@ -1,14 +1,4 @@
 {
-  "https://www.databricks.com/blog/introducing-governance-hub-intelligent-account-level-governance-over-your-databricks-estate": "2026-08-26T08:04:51.962606+00:00",
-  "https://www.databricks.com/blog/leveraging-databricks-support-fisc-security-guidelines": "2026-08-26T08:04:51.962606+00:00",
-  "https://www.databricks.com/blog/how-capital-markets-finance-protects-balance-sheet-returns": "2026-08-26T08:04:51.962606+00:00",
-  "https://www.databricks.com/blog/data-governance-tools": "2026-08-26T08:04:51.962606+00:00",
-  "https://www.databricks.com/blog/data-mesh-vs-data-fabric": "2026-08-26T08:04:51.962606+00:00",
-  "https://www.databricks.com/blog/modernizing-sql-etl-lakehouse-declarative-patterns": "2026-08-26T08:04:51.962606+00:00",
-  "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/": "2026-08-26T08:04:51.962606+00:00",
-  "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/": "2026-08-26T08:04:51.962606+00:00",
-  "https://huggingface.co/blog/ibm-granite/granite-4-2": "2026-08-26T08:04:51.962606+00:00",
-  "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": "2026-08-26T08:04:51.962606+00:00",
   "https://www.databricks.com/blog/building-ai-era-lakebase-streaming-and-lakehouse-innovations-vldb-2026": "2026-08-27T18:20:20.930516+00:00",
   "https://www.databricks.com/blog/what-qsr-reports-miss-about-decisions-matter-most": "2026-08-27T18:20:20.930516+00:00",
   "https://www.databricks.com/blog/enhancing-agent-retrieval-structured-chart-extraction": "2026-08-27T18:20:20.930516+00:00",
@@ -142,5 +132,10 @@
   "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/": "2026-09-24T12:47:08.214771+00:00",
   "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/": "2026-09-24T12:47:08.214771+00:00",
   "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/": "2026-09-24T12:47:08.214771+00:00",
-  "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": "2026-09-24T12:47:08.214771+00:00"
+  "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": "2026-09-24T12:47:08.214771+00:00",
+  "https://www.databricks.com/blog/running-open-jev-sql-databricks": "2026-09-25T12:50:22.859424+00:00",
+  "https://www.databricks.com/blog/deploy-and-manage-coding-agents-scale-unity-gateway-cli": "2026-09-25T12:50:22.859424+00:00",
+  "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/": "2026-09-25T12:50:22.859424+00:00",
+  "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/": "2026-09-25T12:50:22.859424+00:00",
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark": "2026-09-25T12:50:22.859424+00:00"
 }
