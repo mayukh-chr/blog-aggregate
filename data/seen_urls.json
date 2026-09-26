@@ -137,5 +137,7 @@
   "https://www.databricks.com/blog/deploy-and-manage-coding-agents-scale-unity-gateway-cli": "2026-09-25T12:50:22.859424+00:00",
   "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/": "2026-09-25T12:50:22.859424+00:00",
   "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/": "2026-09-25T12:50:22.859424+00:00",
-  "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark": "2026-09-25T12:50:22.859424+00:00"
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark": "2026-09-25T12:50:22.859424+00:00",
+  "https://www.databricks.com/blog/data-dialogue-how-sp-global-energy-made-its-structured-data-estate-conversational-databricks": "2026-09-26T12:18:09.031737+00:00",
+  "https://blog.cloudflare.com/turnstile-spin/": "2026-09-26T12:18:09.031737+00:00"
 }
