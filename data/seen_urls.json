@@ -153,5 +153,18 @@
   "https://blog.cloudflare.com/post-quantum-visibility/": "2026-09-29T14:10:07.109078+00:00",
   "https://blog.cloudflare.com/application-profiles/": "2026-09-29T14:10:07.109078+00:00",
   "https://blog.cloudflare.com/ipsec-downgrade-protection/": "2026-09-29T14:10:07.109078+00:00",
-  "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": "2026-09-29T14:10:07.109078+00:00"
+  "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": "2026-09-29T14:10:07.109078+00:00",
+  "https://www.databricks.com/blog/your-data-your-storage-your-rules-2026-guide-storing-unity-catalog-managed-tables": "2026-09-30T13:57:17.780262+00:00",
+  "https://blog.cloudflare.com/100-million-donations/": "2026-09-30T13:57:17.780262+00:00",
+  "https://blog.cloudflare.com/auto-router/": "2026-09-30T13:57:17.780262+00:00",
+  "https://blog.cloudflare.com/real-time-issue-detection/": "2026-09-30T13:57:17.780262+00:00",
+  "https://blog.cloudflare.com/simplifying-domains/": "2026-09-30T13:57:17.780262+00:00",
+  "https://blog.cloudflare.com/monetization-gateway-beta/": "2026-09-30T13:57:17.780262+00:00",
+  "https://blog.cloudflare.com/pay-per-use/": "2026-09-30T13:57:17.780262+00:00",
+  "https://blog.cloudflare.com/ai-model-overuse-user-insights/": "2026-09-30T13:57:17.780262+00:00",
+  "https://blog.cloudflare.com/faster-agent-sandboxes/": "2026-09-30T13:57:17.780262+00:00",
+  "https://blog.cloudflare.com/agentic-web/": "2026-09-30T13:57:17.780262+00:00",
+  "https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect/": "2026-09-30T13:57:17.780262+00:00",
+  "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/": "2026-09-30T13:57:17.780262+00:00",
+  "https://huggingface.co/blog/nvidia/kumo-tabular": "2026-09-30T13:57:17.780262+00:00"
 }
