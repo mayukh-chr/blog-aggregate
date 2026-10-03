@@ -1,13 +1,4 @@
 {
-  "https://frappe.io/blog/engineering/half-a-billion-ledger-entries": "2026-09-03T12:09:46.893450+00:00",
-  "https://www.databricks.com/blog/southern-companys-scout-completing-storm-intelligence-story": "2026-09-03T12:09:46.893450+00:00",
-  "https://www.databricks.com/blog/expanding-genie-agents-deep-analysis-file-reasoning-and-more": "2026-09-03T12:09:46.893450+00:00",
-  "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/": "2026-09-03T12:09:46.893450+00:00",
-  "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/": "2026-09-03T12:09:46.893450+00:00",
-  "https://huggingface.co/blog/grpo-with-trl-ifstruct": "2026-09-03T12:09:46.893450+00:00",
-  "https://huggingface.co/blog/funes": "2026-09-03T12:09:46.893450+00:00",
-  "https://huggingface.co/blog/train-to-paint-with-code": "2026-09-03T12:09:46.893450+00:00",
-  "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-03T12:09:46.893450+00:00",
   "https://arpitbhayani.me/notes/ai-makes-pull-requests-less-central-in-open-source-contribution": "2026-09-04T12:10:54.052665+00:00",
   "https://www.databricks.com/blog/governance-beyond-security-knowledge-context-ontology-lakehouse": "2026-09-04T12:10:54.052665+00:00",
   "https://www.databricks.com/blog/building-high-quality-and-trusted-data-products-databricks": "2026-09-04T12:10:54.052665+00:00",
@@ -186,5 +177,10 @@
   "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills/": "2026-10-02T13:58:05.626335+00:00",
   "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples/": "2026-10-02T13:58:05.626335+00:00",
   "https://huggingface.co/blog/ServiceNow-AI/autosynthdata": "2026-10-02T13:58:05.626335+00:00",
-  "https://huggingface.co/blog/allenai/olmocore3": "2026-10-02T13:58:05.626335+00:00"
+  "https://huggingface.co/blog/allenai/olmocore3": "2026-10-02T13:58:05.626335+00:00",
+  "https://www.databricks.com/blog/capital-markets-buy-side-runs-nav-finance-protects-fee": "2026-10-03T12:38:36.173276+00:00",
+  "https://www.databricks.com/blog/how-choose-your-first-genie-agents-maximum-impact": "2026-10-03T12:38:36.173276+00:00",
+  "https://blog.cloudflare.com/streamline/": "2026-10-03T12:38:36.173276+00:00",
+  "https://blog.palantir.com/early-talent-hiring-at-palantir-c7388f1fdab7?source=rss----3c87dc14372f---4": "2026-10-03T12:38:36.173276+00:00",
+  "https://huggingface.co/blog/allenai/astabrief": "2026-10-03T12:38:36.173276+00:00"
 }
