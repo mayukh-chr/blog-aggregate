@@ -1,8 +1,4 @@
 {
-  "https://www.databricks.com/blog/achieving-extreme-efficiency-through-specialized-gpu-kernel-generation": "2026-09-05T11:18:36.733327+00:00",
-  "https://www.databricks.com/blog/five-ways-marketers-can-use-genie-one": "2026-09-05T11:18:36.733327+00:00",
-  "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/": "2026-09-05T11:18:36.733327+00:00",
-  "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson/": "2026-09-05T11:18:36.733327+00:00",
   "https://arpitbhayani.me/notes/engineering-speed-and-abstractions-create-longer-failure-paths-an-unacknowledged-tradeoff": "2026-09-07T13:34:54.909152+00:00",
   "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/": "2026-09-08T12:12:21.851249+00:00",
   "https://www.databricks.com/blog/evaluation-first-ai-agents-how-zepto-scales-customer-support-databricks-and-mlflow": "2026-09-09T12:23:58.797523+00:00",
@@ -175,5 +171,9 @@
   "https://blog.cloudflare.com/streamline/": "2026-10-03T12:38:36.173276+00:00",
   "https://blog.palantir.com/early-talent-hiring-at-palantir-c7388f1fdab7?source=rss----3c87dc14372f---4": "2026-10-03T12:38:36.173276+00:00",
   "https://huggingface.co/blog/allenai/astabrief": "2026-10-03T12:38:36.173276+00:00",
-  "https://huggingface.co/blog/microsoft/thinkingbox": "2026-10-04T13:19:10.238453+00:00"
+  "https://huggingface.co/blog/microsoft/thinkingbox": "2026-10-04T13:19:10.238453+00:00",
+  "https://www.databricks.com/blog/unlocking-data-portability-preventing-catalog-lock-register-and-unregister-apis": "2026-10-05T16:13:00.530642+00:00",
+  "https://www.databricks.com/blog/how-genie-ontology-powers-product-development-databricks": "2026-10-05T16:13:00.530642+00:00",
+  "https://blog.cloudflare.com/birthday-week-2026-wrap-up/": "2026-10-05T16:13:00.530642+00:00",
+  "https://blog.cloudflare.com/one-year-later-1111-interns/": "2026-10-05T16:13:00.530642+00:00"
 }
