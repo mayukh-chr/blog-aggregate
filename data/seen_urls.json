@@ -1,5 +1,4 @@
 {
-  "https://arpitbhayani.me/notes/engineering-speed-and-abstractions-create-longer-failure-paths-an-unacknowledged-tradeoff": "2026-09-07T13:34:54.909152+00:00",
   "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/": "2026-09-08T12:12:21.851249+00:00",
   "https://www.databricks.com/blog/evaluation-first-ai-agents-how-zepto-scales-customer-support-databricks-and-mlflow": "2026-09-09T12:23:58.797523+00:00",
   "https://www.databricks.com/blog/sql-data-types": "2026-09-09T12:23:58.797523+00:00",
@@ -179,5 +178,13 @@
   "https://www.databricks.com/blog/scaling-and-operating-large-dbt-project-databricks-ifcos-data-team-performance-visibility-and-debugging": "2026-10-06T14:18:02.663228+00:00",
   "https://www.databricks.com/blog/meta-ads-mcp-databricks": "2026-10-06T14:18:02.663228+00:00",
   "https://www.databricks.com/blog/nearest-join-scaling-vector-search-databricks-runtime": "2026-10-06T14:18:02.663228+00:00",
-  "https://huggingface.co/blog/tiiuae/falcon-emirati": "2026-10-06T14:18:02.663228+00:00"
+  "https://huggingface.co/blog/tiiuae/falcon-emirati": "2026-10-06T14:18:02.663228+00:00",
+  "https://frappe.io/blog/engineering/building-a-compass": "2026-10-07T14:36:45.871584+00:00",
+  "https://frappe.io/blog/product-updates/announcing-framework-erpnext-and-hrms-v1650": "2026-10-07T14:36:45.871584+00:00",
+  "https://www.databricks.com/blog/lakehouse-better-data-warehouse-2026-benchmarks-and-proof": "2026-10-07T14:36:45.871584+00:00",
+  "https://blog.cloudflare.com/root-ksk-2024-rollover/": "2026-10-07T14:36:45.871584+00:00",
+  "https://developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking/": "2026-10-07T14:36:45.871584+00:00",
+  "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration/": "2026-10-07T14:36:45.871584+00:00",
+  "https://developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts/": "2026-10-07T14:36:45.871584+00:00",
+  "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": "2026-10-07T14:36:45.871584+00:00"
 }
