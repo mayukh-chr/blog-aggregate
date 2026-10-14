@@ -188,5 +188,14 @@
   "https://www.databricks.com/blog/how-flo-health-built-safer-more-useful-open-models-databricks-ai-runtime": "2026-10-12T16:51:22.376165+00:00",
   "https://blog.cloudflare.com/transformers-on-logpush/": "2026-10-12T16:51:22.376165+00:00",
   "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/": "2026-10-12T16:51:22.376165+00:00",
-  "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/": "2026-10-13T15:09:43.948079+00:00"
+  "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/": "2026-10-13T15:09:43.948079+00:00",
+  "https://www.databricks.com/blog/sizing-lakebase-search-lessons-real-app-and-4-million-passages": "2026-10-14T12:56:48.319116+00:00",
+  "https://www.databricks.com/blog/introducing-private-network-gateway": "2026-10-14T12:56:48.319116+00:00",
+  "https://www.databricks.com/blog/practical-guide-real-time-analytics-2026": "2026-10-14T12:56:48.319116+00:00",
+  "https://www.databricks.com/blog/whats-new-lakeflow-designer-october-2026-roundup": "2026-10-14T12:56:48.319116+00:00",
+  "https://www.databricks.com/blog/databricks-visionary-gartnerr-magic-quadranttm-analytics-and-business-intelligence-platforms": "2026-10-14T12:56:48.319116+00:00",
+  "https://blog.cloudflare.com/d1-control-plane/": "2026-10-14T12:56:48.319116+00:00",
+  "https://blog.cloudflare.com/rewinding-the-exponential/": "2026-10-14T12:56:48.319116+00:00",
+  "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/": "2026-10-14T12:56:48.319116+00:00",
+  "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": "2026-10-14T12:56:48.319116+00:00"
 }
