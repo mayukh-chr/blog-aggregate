@@ -1,9 +1,4 @@
 {
-  "https://frappe.io/blog/culture/conversations-make-the-ecosystem": "2026-09-15T12:45:19.179736+00:00",
-  "https://www.databricks.com/blog/managed-postgres": "2026-09-15T12:45:19.179736+00:00",
-  "https://www.databricks.com/blog/announcing-demand-state-repartitioning-apache-sparktm-structured-streaming-databricks": "2026-09-15T12:45:19.179736+00:00",
-  "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/": "2026-09-15T12:45:19.179736+00:00",
-  "https://sakana.ai/inside-product-team/": "2026-09-15T12:45:19.179736+00:00",
   "https://www.databricks.com/blog/how-energy-teams-turn-theft-detection-governed-action-genie-and-ai-business-processes": "2026-09-16T12:40:00.649887+00:00",
   "https://www.confluent.io/blog/third-party-risk-assessments-or-how-confluent-helps-you-move-faster-with-confidence/": "2026-09-16T12:40:00.649887+00:00",
   "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/": "2026-09-16T12:40:00.649887+00:00",
@@ -204,5 +199,15 @@
   "https://blog.cloudflare.com/hyperdrive-mysql/": "2026-10-15T12:43:43.362169+00:00",
   "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/": "2026-10-15T12:43:43.362169+00:00",
   "https://huggingface.co/blog/allenai/hiro-acev2": "2026-10-15T12:43:43.362169+00:00",
-  "https://sakana.ai/my-fish/": "2026-10-15T12:43:43.362169+00:00"
+  "https://sakana.ai/my-fish/": "2026-10-15T12:43:43.362169+00:00",
+  "https://www.databricks.com/blog/how-our-ai-research-team-uses-ai-runtime": "2026-10-16T12:34:32.626312+00:00",
+  "https://www.databricks.com/blog/reducing-noise-how-atlassian-built-ocsf-security-lakehouse-databricks": "2026-10-16T12:34:32.626312+00:00",
+  "https://www.databricks.com/blog/geospatial-queries-are-38x-faster-lakehousert": "2026-10-16T12:34:32.626312+00:00",
+  "https://blog.cloudflare.com/programmable-gateway-dlp/": "2026-10-16T12:34:32.626312+00:00",
+  "https://blog.cloudflare.com/deploy-with-void/": "2026-10-16T12:34:32.626312+00:00",
+  "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/": "2026-10-16T12:34:32.626312+00:00",
+  "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/": "2026-10-16T12:34:32.626312+00:00",
+  "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/": "2026-10-16T12:34:32.626312+00:00",
+  "https://huggingface.co/blog/nvidia/scaling-indic-pretraining": "2026-10-16T12:34:32.626312+00:00",
+  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": "2026-10-16T12:34:32.626312+00:00"
 }
