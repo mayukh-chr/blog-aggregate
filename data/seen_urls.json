@@ -1,19 +1,4 @@
 {
-  "https://www.databricks.com/blog/regex-rows-simplifying-pattern-detection-sql-matchrecognize": "2026-09-17T12:39:16.207477+00:00",
-  "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/": "2026-09-17T12:39:16.207477+00:00",
-  "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/": "2026-09-17T12:39:16.207477+00:00",
-  "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/": "2026-09-17T12:39:16.207477+00:00",
-  "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/": "2026-09-17T12:39:16.207477+00:00",
-  "https://sakana.ai/chat-fugumax/": "2026-09-17T12:39:16.207477+00:00",
-  "https://www.databricks.com/blog/database-for-ai-agents": "2026-09-18T12:17:19.671086+00:00",
-  "https://www.databricks.com/blog/web-search-your-agent-inherited-isnt-good-enough": "2026-09-18T12:17:19.671086+00:00",
-  "https://www.databricks.com/blog/what-is-aiops": "2026-09-18T12:17:19.671086+00:00",
-  "https://www.databricks.com/blog/modernizing-trade-lifecycle-governed-data-and-ai": "2026-09-18T12:17:19.671086+00:00",
-  "https://sakana.ai/frontier-intelligence-group/": "2026-09-18T12:17:19.671086+00:00",
-  "https://www.databricks.com/blog/radar-catch-gray-failures-anomaly-detection": "2026-09-19T11:58:28.943215+00:00",
-  "https://www.databricks.com/blog/enabling-secure-productive-work-personal-devices": "2026-09-19T11:58:28.943215+00:00",
-  "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/": "2026-09-19T11:58:28.943215+00:00",
-  "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/": "2026-09-19T11:58:28.943215+00:00",
   "https://blog.cloudflare.com/python-workers-ga/": "2026-09-21T14:22:09.503510+00:00",
   "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": "2026-09-21T14:22:09.503510+00:00",
   "https://huggingface.co/blog/tokenizers-v1": "2026-09-21T14:22:09.503510+00:00",
@@ -203,5 +188,6 @@
   "https://www.databricks.com/blog/transactions-are-generally-available-advancing-warehousing-lakehouse": "2026-10-17T11:41:01.432973+00:00",
   "https://www.databricks.com/blog/closing-binary-blind-spot-domain-knowledge-injection-llm-malware-triage-npm-packages": "2026-10-17T11:41:01.432973+00:00",
   "https://blog.cloudflare.com/verified-bots-accountability/": "2026-10-17T11:41:01.432973+00:00",
-  "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/": "2026-10-17T11:41:01.432973+00:00"
+  "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/": "2026-10-17T11:41:01.432973+00:00",
+  "https://blog.cloudflare.com/protect-your-netscaler-gateway/": "2026-10-19T14:47:21.531271+00:00"
 }
