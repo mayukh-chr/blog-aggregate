@@ -199,5 +199,22 @@
   "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/": "2026-10-20T12:48:34.953496+00:00",
   "https://huggingface.co/blog/anylanguagemodel-1-0": "2026-10-20T12:48:34.953496+00:00",
   "https://huggingface.co/blog/mps-pytorch-2-15": "2026-10-20T12:48:34.953496+00:00",
-  "https://sakana.ai/qd-rec/": "2026-10-20T12:48:34.953496+00:00"
+  "https://sakana.ai/qd-rec/": "2026-10-20T12:48:34.953496+00:00",
+  "https://mrkaran.dev/posts/opencode-cliproxy-account-routing/": "2026-10-21T13:01:49.408032+00:00",
+  "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models": "2026-10-21T13:01:49.408032+00:00",
+  "https://www.databricks.com/blog/ai-runtime-generally-available": "2026-10-21T13:01:49.408032+00:00",
+  "https://www.databricks.com/blog/deploy-rfd4-proteina-model-databricks": "2026-10-21T13:01:49.408032+00:00",
+  "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents": "2026-10-21T13:01:49.408032+00:00",
+  "https://www.databricks.com/blog/introducing-agent-memory-databricks": "2026-10-21T13:01:49.408032+00:00",
+  "https://www.databricks.com/blog/how-hamlet-uses-databricks-lakebase-postgres-test-changes-against-production-data": "2026-10-21T13:01:49.408032+00:00",
+  "https://blog.cloudflare.com/emudhra-certificate-compromise/": "2026-10-21T13:01:49.408032+00:00",
+  "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/": "2026-10-21T13:01:49.408032+00:00",
+  "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/": "2026-10-21T13:01:49.408032+00:00",
+  "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/": "2026-10-21T13:01:49.408032+00:00",
+  "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow/": "2026-10-21T13:01:49.408032+00:00",
+  "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/": "2026-10-21T13:01:49.408032+00:00",
+  "https://huggingface.co/blog/nvidia/kumo-forecast": "2026-10-21T13:01:49.408032+00:00",
+  "https://huggingface.co/blog/allenai/fairstress": "2026-10-21T13:01:49.408032+00:00",
+  "https://huggingface.co/blog/ibm-research/altk-evolve-bc": "2026-10-21T13:01:49.408032+00:00",
+  "https://sakana.ai/open-house-2026/": "2026-10-21T13:01:49.408032+00:00"
 }
