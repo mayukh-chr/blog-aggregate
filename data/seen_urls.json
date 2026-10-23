@@ -213,5 +213,14 @@
   "https://huggingface.co/blog/nvidia/kumo-relational": "2026-10-22T13:03:30.072950+00:00",
   "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": "2026-10-22T13:03:30.072950+00:00",
   "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": "2026-10-22T13:03:30.072950+00:00",
-  "https://huggingface.co/blog/ibm-granite/granite-speech-5": "2026-10-22T13:03:30.072950+00:00"
+  "https://huggingface.co/blog/ibm-granite/granite-speech-5": "2026-10-22T13:03:30.072950+00:00",
+  "https://www.databricks.com/blog/ai-cost-management": "2026-10-23T12:42:23.600797+00:00",
+  "https://www.databricks.com/blog/fraud-analyst-ai-coworker-detecting-telecom-fraud-real-time-one-platform": "2026-10-23T12:42:23.600797+00:00",
+  "https://www.databricks.com/blog/ai-bill-coming": "2026-10-23T12:42:23.600797+00:00",
+  "https://blog.cloudflare.com/k-isms/": "2026-10-23T12:42:23.600797+00:00",
+  "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/": "2026-10-23T12:42:23.600797+00:00",
+  "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/": "2026-10-23T12:42:23.600797+00:00",
+  "https://huggingface.co/blog/microsoft/thinkingbox-training": "2026-10-23T12:42:23.600797+00:00",
+  "https://huggingface.co/blog/allenai/olmoearth-v1-3": "2026-10-23T12:42:23.600797+00:00",
+  "https://sakana.ai/aquarium-release/": "2026-10-23T12:42:23.600797+00:00"
 }
