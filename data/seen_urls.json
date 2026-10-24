@@ -1,11 +1,4 @@
 {
-  "https://www.databricks.com/blog/genie-one-mcp-give-any-ai-agent-right-business-context": "2026-09-23T12:49:11.141353+00:00",
-  "https://www.databricks.com/blog/genie-one-mcp-now-generally-available": "2026-09-23T12:49:11.141353+00:00",
-  "https://blog.cloudflare.com/vary-support/": "2026-09-23T12:49:11.141353+00:00",
-  "https://blog.cloudflare.com/worker-previews/": "2026-09-23T12:49:11.141353+00:00",
-  "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/": "2026-09-23T12:49:11.141353+00:00",
-  "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/": "2026-09-23T12:49:11.141353+00:00",
-  "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/": "2026-09-23T12:49:11.141353+00:00",
   "https://www.databricks.com/blog/how-i-built-agent-based-security-reviews-databricks": "2026-09-24T12:47:08.214771+00:00",
   "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/": "2026-09-24T12:47:08.214771+00:00",
   "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/": "2026-09-24T12:47:08.214771+00:00",
@@ -222,5 +215,14 @@
   "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/": "2026-10-23T12:42:23.600797+00:00",
   "https://huggingface.co/blog/microsoft/thinkingbox-training": "2026-10-23T12:42:23.600797+00:00",
   "https://huggingface.co/blog/allenai/olmoearth-v1-3": "2026-10-23T12:42:23.600797+00:00",
-  "https://sakana.ai/aquarium-release/": "2026-10-23T12:42:23.600797+00:00"
+  "https://sakana.ai/aquarium-release/": "2026-10-23T12:42:23.600797+00:00",
+  "https://arpitbhayani.me/blogs/compiling-an-sop-into-a-3b-model": "2026-10-24T12:06:12.279981+00:00",
+  "https://www.databricks.com/blog/built-agents-case-spark-declarative-pipelines": "2026-10-24T12:06:12.279981+00:00",
+  "https://www.databricks.com/blog/real-time-energy-trading-and-analytics-databricks": "2026-10-24T12:06:12.279981+00:00",
+  "https://blog.cloudflare.com/origin-range-requests/": "2026-10-24T12:06:12.279981+00:00",
+  "https://blog.cloudflare.com/post-quantum-geo-key-manager/": "2026-10-24T12:06:12.279981+00:00",
+  "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/": "2026-10-24T12:06:12.279981+00:00",
+  "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/": "2026-10-24T12:06:12.279981+00:00",
+  "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/": "2026-10-24T12:06:12.279981+00:00",
+  "https://huggingface.co/blog/allenai/litpivot": "2026-10-24T12:06:12.279981+00:00"
 }
