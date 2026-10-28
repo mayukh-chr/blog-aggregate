@@ -222,5 +222,14 @@
   "https://blog.cloudflare.com/kv-cache-exposure-remediation/": "2026-10-27T13:24:03.523901+00:00",
   "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/": "2026-10-27T13:24:03.523901+00:00",
   "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/": "2026-10-27T13:24:03.523901+00:00",
-  "https://sakana.ai/vp-of-gtm-interview/": "2026-10-27T13:24:03.523901+00:00"
+  "https://sakana.ai/vp-of-gtm-interview/": "2026-10-27T13:24:03.523901+00:00",
+  "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills": "2026-10-28T14:09:28.522132+00:00",
+  "https://www.databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation": "2026-10-28T14:09:28.522132+00:00",
+  "https://www.databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt": "2026-10-28T14:09:28.522132+00:00",
+  "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/": "2026-10-28T14:09:28.522132+00:00",
+  "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/": "2026-10-28T14:09:28.522132+00:00",
+  "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages/": "2026-10-28T14:09:28.522132+00:00",
+  "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/": "2026-10-28T14:09:28.522132+00:00",
+  "https://huggingface.co/blog/LiquidAI/lfm3": "2026-10-28T14:09:28.522132+00:00",
+  "https://huggingface.co/blog/allenai/novelty-bench": "2026-10-28T14:09:28.522132+00:00"
 }
