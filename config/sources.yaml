@@ -108,3 +108,10 @@ sources:
   - name: "Sakana.ai"
     url: "https://sakana.ai/blog/"
     type: auto
+
+  # ── AI news & research digests ──────────────────────────────────────────────
+
+  - name: "ClaudeGPT Si"
+    url: "https://claudegpt.si/"
+    type: rss
+    rss_url: "https://claudegpt.si/feed.xml"
