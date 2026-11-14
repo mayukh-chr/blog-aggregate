@@ -1,11 +1,4 @@
 {
-  "https://www.databricks.com/blog/unlock-powerful-insights-and-forecasts-predictive-ai-functions": "2026-10-15T12:43:43.362169+00:00",
-  "https://www.databricks.com/blog/power-real-time-applications-and-agents-document-intelligence": "2026-10-15T12:43:43.362169+00:00",
-  "https://blog.cloudflare.com/yandex-outage/": "2026-10-15T12:43:43.362169+00:00",
-  "https://blog.cloudflare.com/hyperdrive-mysql/": "2026-10-15T12:43:43.362169+00:00",
-  "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/": "2026-10-15T12:43:43.362169+00:00",
-  "https://huggingface.co/blog/allenai/hiro-acev2": "2026-10-15T12:43:43.362169+00:00",
-  "https://sakana.ai/my-fish/": "2026-10-15T12:43:43.362169+00:00",
   "https://www.databricks.com/blog/how-our-ai-research-team-uses-ai-runtime": "2026-10-16T12:34:32.626312+00:00",
   "https://www.databricks.com/blog/reducing-noise-how-atlassian-built-ocsf-security-lakehouse-databricks": "2026-10-16T12:34:32.626312+00:00",
   "https://www.databricks.com/blog/geospatial-queries-are-38x-faster-lakehousert": "2026-10-16T12:34:32.626312+00:00",
@@ -436,5 +429,17 @@
   "https://www.databricks.com/blog/lakehousert-scale-real-time-analytics-not-your-bill": "2026-11-13T15:31:17.275890+00:00",
   "https://blog.cloudflare.com/spend-management/": "2026-11-13T15:31:17.275890+00:00",
   "https://huggingface.co/blog/ggml-org/llama-cpp-v1": "2026-11-13T15:31:17.275890+00:00",
-  "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": "2026-11-13T15:31:17.275890+00:00"
+  "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": "2026-11-13T15:31:17.275890+00:00",
+  "https://frappe.io/blog/culture/a-magical-universe": "2026-11-14T14:20:43.117983+00:00",
+  "https://www.databricks.com/blog/spark-vs-flink": "2026-11-14T14:20:43.117983+00:00",
+  "https://www.databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data": "2026-11-14T14:20:43.117983+00:00",
+  "https://blog.cloudflare.com/kitesurf-open-source/": "2026-11-14T14:20:43.117983+00:00",
+  "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/": "2026-11-14T14:20:43.117983+00:00",
+  "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/": "2026-11-14T14:20:43.117983+00:00",
+  "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/": "2026-11-14T14:20:43.117983+00:00",
+  "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/": "2026-11-14T14:20:43.117983+00:00",
+  "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/": "2026-11-14T14:20:43.117983+00:00",
+  "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/": "2026-11-14T14:20:43.117983+00:00",
+  "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": "2026-11-14T14:20:43.117983+00:00",
+  "https://huggingface.co/blog/allenai/xybench": "2026-11-14T14:20:43.117983+00:00"
 }
